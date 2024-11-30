@@ -1,0 +1,2502 @@
+[
+    {
+        "sympy_exp": "53.4722461933114*x",
+        "latex_expression": "53.4722461933114 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 53.4722461933114*x"
+    },
+    {
+        "sympy_exp": "4.79969046541021*x + 13.3217621097709*y + 69.9466150627897*z",
+        "latex_expression": "4.79969046541021 x + 13.3217621097709 y + 69.9466150627897 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 4.79969046541021*x + 13.3217621097709*y + 69.9466150627897*z"
+    },
+    {
+        "sympy_exp": "63.5737018189602*y",
+        "latex_expression": "63.5737018189602 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 63.5737018189602*y"
+    },
+    {
+        "sympy_exp": "63.911825041659*y + 76.9332322566909*z",
+        "latex_expression": "63.911825041659 y + 76.9332322566909 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 63.911825041659*y + 76.9332322566909*z"
+    },
+    {
+        "sympy_exp": "80.4668249542127*x + 13.394470108419*y + 20.3912927782408*z",
+        "latex_expression": "80.4668249542127 x + 13.394470108419 y + 20.3912927782408 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 80.4668249542127*x + 13.394470108419*y + 20.3912927782408*z"
+    },
+    {
+        "sympy_exp": "28.0315679776613*x + 45.5186087554632*z",
+        "latex_expression": "28.0315679776613 x + 45.5186087554632 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 28.0315679776613*x + 45.5186087554632*z"
+    },
+    {
+        "sympy_exp": "67.5884442691275*x",
+        "latex_expression": "67.5884442691275 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 67.5884442691275*x"
+    },
+    {
+        "sympy_exp": "59.80901230635*y",
+        "latex_expression": "59.80901230635 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 59.80901230635*y"
+    },
+    {
+        "sympy_exp": "45.3575756653731*x + 38.3577123233171*y + 52.8325126535021*z",
+        "latex_expression": "45.3575756653731 x + 38.3577123233171 y + 52.8325126535021 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 45.3575756653731*x + 38.3577123233171*y + 52.8325126535021*z"
+    },
+    {
+        "sympy_exp": "77.980043083376*x",
+        "latex_expression": "77.980043083376 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 77.980043083376*x"
+    },
+    {
+        "sympy_exp": "37.2048539935191*x + 7.77075346264649*y + 31.8994446655159*z",
+        "latex_expression": "37.2048539935191 x + 7.77075346264649 y + 31.8994446655159 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 37.2048539935191*x + 7.77075346264649*y + 31.8994446655159*z"
+    },
+    {
+        "sympy_exp": "61.2275301779451*x + 81.7827392554662*y + 55.7678529018186*z",
+        "latex_expression": "61.2275301779451 x + 81.7827392554662 y + 55.7678529018186 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 61.2275301779451*x + 81.7827392554662*y + 55.7678529018186*z"
+    },
+    {
+        "sympy_exp": "48.7626904122393*x + 41.5518898494649*z",
+        "latex_expression": "48.7626904122393 x + 41.5518898494649 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 48.7626904122393*x + 41.5518898494649*z"
+    },
+    {
+        "sympy_exp": "56.4671447631244*x",
+        "latex_expression": "56.4671447631244 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 56.4671447631244*x"
+    },
+    {
+        "sympy_exp": "48.0747591803796*x + 5.12531169412454*y",
+        "latex_expression": "48.0747591803796 x + 5.12531169412454 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 48.0747591803796*x + 5.12531169412454*y"
+    },
+    {
+        "sympy_exp": "66.427771711767*x",
+        "latex_expression": "66.427771711767 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 66.427771711767*x"
+    },
+    {
+        "sympy_exp": "61.7063591112457*x + 73.0655546604911*z",
+        "latex_expression": "61.7063591112457 x + 73.0655546604911 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 61.7063591112457*x + 73.0655546604911*z"
+    },
+    {
+        "sympy_exp": "42.8709225515367*x + 85.5464396349079*z",
+        "latex_expression": "42.8709225515367 x + 85.5464396349079 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 42.8709225515367*x + 85.5464396349079*z"
+    },
+    {
+        "sympy_exp": "18.4419654238087*x + 55.942050814975*y + 9.85944949175446*z",
+        "latex_expression": "18.4419654238087 x + 55.942050814975 y + 9.85944949175446 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 18.4419654238087*x + 55.942050814975*y + 9.85944949175446*z"
+    },
+    {
+        "sympy_exp": "42.019826215536*x + 61.3434060142261*z",
+        "latex_expression": "42.019826215536 x + 61.3434060142261 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 42.019826215536*x + 61.3434060142261*z"
+    },
+    {
+        "sympy_exp": "10.176912786698*z",
+        "latex_expression": "10.176912786698 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 10.176912786698*z"
+    },
+    {
+        "sympy_exp": "64.0374231122006*x",
+        "latex_expression": "64.0374231122006 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 64.0374231122006*x"
+    },
+    {
+        "sympy_exp": "49.9467243523842*x + 64.7794832286936*y",
+        "latex_expression": "49.9467243523842 x + 64.7794832286936 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 49.9467243523842*x + 64.7794832286936*y"
+    },
+    {
+        "sympy_exp": "93.8005418038686*x + 47.8588862789127*y + 80.1920576517488*z",
+        "latex_expression": "93.8005418038686 x + 47.8588862789127 y + 80.1920576517488 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 93.8005418038686*x + 47.8588862789127*y + 80.1920576517488*z"
+    },
+    {
+        "sympy_exp": "95.5358656295325*x + 97.1113469349997*y + 54.9321079560482*z",
+        "latex_expression": "95.5358656295325 x + 97.1113469349997 y + 54.9321079560482 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 95.5358656295325*x + 97.1113469349997*y + 54.9321079560482*z"
+    },
+    {
+        "sympy_exp": "62.0836781565972*x + 17.2295188915182*y + 61.832575632261*z",
+        "latex_expression": "62.0836781565972 x + 17.2295188915182 y + 61.832575632261 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 62.0836781565972*x + 17.2295188915182*y + 61.832575632261*z"
+    },
+    {
+        "sympy_exp": "98.9186557725192*y",
+        "latex_expression": "98.9186557725192 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 98.9186557725192*y"
+    },
+    {
+        "sympy_exp": "5.32051317540177*y + 18.0245021972947*z",
+        "latex_expression": "5.32051317540177 y + 18.0245021972947 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 5.32051317540177*y + 18.0245021972947*z"
+    },
+    {
+        "sympy_exp": "49.4457712773599*y",
+        "latex_expression": "49.4457712773599 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 49.4457712773599*y"
+    },
+    {
+        "sympy_exp": "5.25438536930764*x + 80.3525024478031*y",
+        "latex_expression": "5.25438536930764 x + 80.3525024478031 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 5.25438536930764*x + 80.3525024478031*y"
+    },
+    {
+        "sympy_exp": "48.7869394383957*x + 82.2984494483025*y + 96.9683931464649*z",
+        "latex_expression": "48.7869394383957 x + 82.2984494483025 y + 96.9683931464649 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 48.7869394383957*x + 82.2984494483025*y + 96.9683931464649*z"
+    },
+    {
+        "sympy_exp": "21.5651283263841*x + 86.2496998911134*y",
+        "latex_expression": "21.5651283263841 x + 86.2496998911134 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 21.5651283263841*x + 86.2496998911134*y"
+    },
+    {
+        "sympy_exp": "59.5681309719895*x + 44.5872652723428*y + 81.1309206390948*z",
+        "latex_expression": "59.5681309719895 x + 44.5872652723428 y + 81.1309206390948 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 59.5681309719895*x + 44.5872652723428*y + 81.1309206390948*z"
+    },
+    {
+        "sympy_exp": "88.1487987840927*x + 68.0345203133404*y + 88.4799137836232*z",
+        "latex_expression": "88.1487987840927 x + 68.0345203133404 y + 88.4799137836232 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 88.1487987840927*x + 68.0345203133404*y + 88.4799137836232*z"
+    },
+    {
+        "sympy_exp": "80.8963991204528*x + 51.7675629277769*y + 90.8485750953842*z",
+        "latex_expression": "80.8963991204528 x + 51.7675629277769 y + 90.8485750953842 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 80.8963991204528*x + 51.7675629277769*y + 90.8485750953842*z"
+    },
+    {
+        "sympy_exp": "61.0358512797706*x + 66.763691892022*y",
+        "latex_expression": "61.0358512797706 x + 66.763691892022 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 61.0358512797706*x + 66.763691892022*y"
+    },
+    {
+        "sympy_exp": "4.25013485359814*x + 83.0408577369065*y + 99.4911564116536*z",
+        "latex_expression": "4.25013485359814 x + 83.0408577369065 y + 99.4911564116536 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 4.25013485359814*x + 83.0408577369065*y + 99.4911564116536*z"
+    },
+    {
+        "sympy_exp": "29.4131212876813*y",
+        "latex_expression": "29.4131212876813 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 29.4131212876813*y"
+    },
+    {
+        "sympy_exp": "73.9811463136446*x",
+        "latex_expression": "73.9811463136446 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 73.9811463136446*x"
+    },
+    {
+        "sympy_exp": "77.078241399192*y + 71.6678733655995*z",
+        "latex_expression": "77.078241399192 y + 71.6678733655995 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 77.078241399192*y + 71.6678733655995*z"
+    },
+    {
+        "sympy_exp": "60.7575406861844*x + 19.4002033245723*y + 33.4678854054076*z",
+        "latex_expression": "60.7575406861844 x + 19.4002033245723 y + 33.4678854054076 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 60.7575406861844*x + 19.4002033245723*y + 33.4678854054076*z"
+    },
+    {
+        "sympy_exp": "54.4779010256432*y",
+        "latex_expression": "54.4779010256432 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 54.4779010256432*y"
+    },
+    {
+        "sympy_exp": "75.0610710039012*x + 93.7224700205733*y + 67.6149851148915*z",
+        "latex_expression": "75.0610710039012 x + 93.7224700205733 y + 67.6149851148915 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 75.0610710039012*x + 93.7224700205733*y + 67.6149851148915*z"
+    },
+    {
+        "sympy_exp": "95.2582284274683*y + 22.9235161521394*z",
+        "latex_expression": "95.2582284274683 y + 22.9235161521394 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 95.2582284274683*y + 22.9235161521394*z"
+    },
+    {
+        "sympy_exp": "87.6046885625607*x + 5.91109856661576*y + 99.3218203272543*z",
+        "latex_expression": "87.6046885625607 x + 5.91109856661576 y + 99.3218203272543 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 87.6046885625607*x + 5.91109856661576*y + 99.3218203272543*z"
+    },
+    {
+        "sympy_exp": "86.9873287673641*y + 32.0169769282048*z",
+        "latex_expression": "86.9873287673641 y + 32.0169769282048 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 86.9873287673641*y + 32.0169769282048*z"
+    },
+    {
+        "sympy_exp": "44.6417945870099*x + 72.6393482794588*y",
+        "latex_expression": "44.6417945870099 x + 72.6393482794588 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 44.6417945870099*x + 72.6393482794588*y"
+    },
+    {
+        "sympy_exp": "47.8778697799188*z",
+        "latex_expression": "47.8778697799188 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 47.8778697799188*z"
+    },
+    {
+        "sympy_exp": "76.6196268006837*x + 45.1026045961475*z",
+        "latex_expression": "76.6196268006837 x + 45.1026045961475 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 76.6196268006837*x + 45.1026045961475*z"
+    },
+    {
+        "sympy_exp": "49.6368445281823*x",
+        "latex_expression": "49.6368445281823 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 49.6368445281823*x"
+    },
+    {
+        "sympy_exp": "91.4994239010022*y",
+        "latex_expression": "91.4994239010022 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 91.4994239010022*y"
+    },
+    {
+        "sympy_exp": "6.15830210863657*x + 76.80332583374*z",
+        "latex_expression": "6.15830210863657 x + 76.80332583374 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 6.15830210863657*x + 76.80332583374*z"
+    },
+    {
+        "sympy_exp": "96.2752808784887*x + 3.32024715139604*y",
+        "latex_expression": "96.2752808784887 x + 3.32024715139604 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 96.2752808784887*x + 3.32024715139604*y"
+    },
+    {
+        "sympy_exp": "40.7998646872235*y",
+        "latex_expression": "40.7998646872235 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 40.7998646872235*y"
+    },
+    {
+        "sympy_exp": "41.6619695587594*y",
+        "latex_expression": "41.6619695587594 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 41.6619695587594*y"
+    },
+    {
+        "sympy_exp": "26.2731546967118*x",
+        "latex_expression": "26.2731546967118 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 26.2731546967118*x"
+    },
+    {
+        "sympy_exp": "72.4230954470559*x",
+        "latex_expression": "72.4230954470559 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 72.4230954470559*x"
+    },
+    {
+        "sympy_exp": "58.716157480317*x + 1.28964599666099*z",
+        "latex_expression": "58.716157480317 x + 1.28964599666099 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 58.716157480317*x + 1.28964599666099*z"
+    },
+    {
+        "sympy_exp": "35.5020461719944*x + 32.9282290113745*z",
+        "latex_expression": "35.5020461719944 x + 32.9282290113745 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 35.5020461719944*x + 32.9282290113745*z"
+    },
+    {
+        "sympy_exp": "88.7247838183535*x",
+        "latex_expression": "88.7247838183535 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 88.7247838183535*x"
+    },
+    {
+        "sympy_exp": "84.9979148181434*x + 76.5079250266122*y",
+        "latex_expression": "84.9979148181434 x + 76.5079250266122 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 84.9979148181434*x + 76.5079250266122*y"
+    },
+    {
+        "sympy_exp": "44.3113552074718*y + 64.8949200835643*z",
+        "latex_expression": "44.3113552074718 y + 64.8949200835643 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 44.3113552074718*y + 64.8949200835643*z"
+    },
+    {
+        "sympy_exp": "68.6939683206474*y + 49.9978872525115*z",
+        "latex_expression": "68.6939683206474 y + 49.9978872525115 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 68.6939683206474*y + 49.9978872525115*z"
+    },
+    {
+        "sympy_exp": "23.2423608675389*y",
+        "latex_expression": "23.2423608675389 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 23.2423608675389*y"
+    },
+    {
+        "sympy_exp": "76.299822015738*x + 32.4438662120628*y",
+        "latex_expression": "76.299822015738 x + 32.4438662120628 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 76.299822015738*x + 32.4438662120628*y"
+    },
+    {
+        "sympy_exp": "60.331759935246*x + 88.1676764455207*y + 25.9229641166078*z",
+        "latex_expression": "60.331759935246 x + 88.1676764455207 y + 25.9229641166078 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 60.331759935246*x + 88.1676764455207*y + 25.9229641166078*z"
+    },
+    {
+        "sympy_exp": "65.5433986906773*x + 52.6981714174247*y",
+        "latex_expression": "65.5433986906773 x + 52.6981714174247 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 65.5433986906773*x + 52.6981714174247*y"
+    },
+    {
+        "sympy_exp": "55.6771089873882*x + 8.51333759304616*z",
+        "latex_expression": "55.6771089873882 x + 8.51333759304616 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 55.6771089873882*x + 8.51333759304616*z"
+    },
+    {
+        "sympy_exp": "90.5487613280951*x + 30.9140395099029*y + 81.1151913350124*z",
+        "latex_expression": "90.5487613280951 x + 30.9140395099029 y + 81.1151913350124 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 90.5487613280951*x + 30.9140395099029*y + 81.1151913350124*z"
+    },
+    {
+        "sympy_exp": "48.7705068134158*y",
+        "latex_expression": "48.7705068134158 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 48.7705068134158*y"
+    },
+    {
+        "sympy_exp": "35.9172414434321*x",
+        "latex_expression": "35.9172414434321 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 35.9172414434321*x"
+    },
+    {
+        "sympy_exp": "82.9433874549998*y + 81.882998618002*z",
+        "latex_expression": "82.9433874549998 y + 81.882998618002 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 82.9433874549998*y + 81.882998618002*z"
+    },
+    {
+        "sympy_exp": "42.7999017776387*x + 40.0221406913384*y + 35.2124814946044*z",
+        "latex_expression": "42.7999017776387 x + 40.0221406913384 y + 35.2124814946044 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 42.7999017776387*x + 40.0221406913384*y + 35.2124814946044*z"
+    },
+    {
+        "sympy_exp": "65.7304783804103*x + 63.5539549274892*y + 64.7521771496543*z",
+        "latex_expression": "65.7304783804103 x + 63.5539549274892 y + 64.7521771496543 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 65.7304783804103*x + 63.5539549274892*y + 64.7521771496543*z"
+    },
+    {
+        "sympy_exp": "41.6991120968038*x + 62.3578929459075*y + 58.078932159933*z",
+        "latex_expression": "41.6991120968038 x + 62.3578929459075 y + 58.078932159933 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 41.6991120968038*x + 62.3578929459075*y + 58.078932159933*z"
+    },
+    {
+        "sympy_exp": "10.592492284184*z",
+        "latex_expression": "10.592492284184 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 10.592492284184*z"
+    },
+    {
+        "sympy_exp": "7.70405905102214*y + 69.4990104192612*z",
+        "latex_expression": "7.70405905102214 y + 69.4990104192612 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 7.70405905102214*y + 69.4990104192612*z"
+    },
+    {
+        "sympy_exp": "61.9697393994361*y",
+        "latex_expression": "61.9697393994361 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 61.9697393994361*y"
+    },
+    {
+        "sympy_exp": "98.0778694647708*y",
+        "latex_expression": "98.0778694647708 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 98.0778694647708*y"
+    },
+    {
+        "sympy_exp": "69.6024122361007*x + 54.8868771967055*z",
+        "latex_expression": "69.6024122361007 x + 54.8868771967055 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 69.6024122361007*x + 54.8868771967055*z"
+    },
+    {
+        "sympy_exp": "94.7761484799267*z",
+        "latex_expression": "94.7761484799267 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 94.7761484799267*z"
+    },
+    {
+        "sympy_exp": "75.5308322136508*x + 81.2734243093114*y",
+        "latex_expression": "75.5308322136508 x + 81.2734243093114 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 75.5308322136508*x + 81.2734243093114*y"
+    },
+    {
+        "sympy_exp": "7.07448761430873*x + 90.1611415641498*y + 45.5353843332548*z",
+        "latex_expression": "7.07448761430873 x + 90.1611415641498 y + 45.5353843332548 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 7.07448761430873*x + 90.1611415641498*y + 45.5353843332548*z"
+    },
+    {
+        "sympy_exp": "43.1437013710199*x",
+        "latex_expression": "43.1437013710199 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 43.1437013710199*x"
+    },
+    {
+        "sympy_exp": "24.1640112984655*x + 25.8961116479958*y + 25.1775932066067*z",
+        "latex_expression": "24.1640112984655 x + 25.8961116479958 y + 25.1775932066067 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 24.1640112984655*x + 25.8961116479958*y + 25.1775932066067*z"
+    },
+    {
+        "sympy_exp": "52.5840509579727*x",
+        "latex_expression": "52.5840509579727 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 52.5840509579727*x"
+    },
+    {
+        "sympy_exp": "15.5639532313819*x + 76.5357599562817*z",
+        "latex_expression": "15.5639532313819 x + 76.5357599562817 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 15.5639532313819*x + 76.5357599562817*z"
+    },
+    {
+        "sympy_exp": "63.1441603363723*x + 11.8498986988147*y + 68.4070586799485*z",
+        "latex_expression": "63.1441603363723 x + 11.8498986988147 y + 68.4070586799485 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 63.1441603363723*x + 11.8498986988147*y + 68.4070586799485*z"
+    },
+    {
+        "sympy_exp": "33.491181933021*x + 3.7843900561711*y + 3.94096413020555*z",
+        "latex_expression": "33.491181933021 x + 3.7843900561711 y + 3.94096413020555 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 33.491181933021*x + 3.7843900561711*y + 3.94096413020555*z"
+    },
+    {
+        "sympy_exp": "88.4305053175162*x + 39.004077023802*y + 10.3097324355167*z",
+        "latex_expression": "88.4305053175162 x + 39.004077023802 y + 10.3097324355167 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 88.4305053175162*x + 39.004077023802*y + 10.3097324355167*z"
+    },
+    {
+        "sympy_exp": "71.2325525930871*x + 76.8876480532921*y + 38.3764902837694*z",
+        "latex_expression": "71.2325525930871 x + 76.8876480532921 y + 38.3764902837694 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 71.2325525930871*x + 76.8876480532921*y + 38.3764902837694*z"
+    },
+    {
+        "sympy_exp": "60.0667766778624*x + 17.4428756920708*y",
+        "latex_expression": "60.0667766778624 x + 17.4428756920708 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 60.0667766778624*x + 17.4428756920708*y"
+    },
+    {
+        "sympy_exp": "2.08312141426847*z",
+        "latex_expression": "2.08312141426847 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 2.08312141426847*z"
+    },
+    {
+        "sympy_exp": "6.67585464604208*x + 49.1678935814273*y + 98.5438503499609*z",
+        "latex_expression": "6.67585464604208 x + 49.1678935814273 y + 98.5438503499609 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 6.67585464604208*x + 49.1678935814273*y + 98.5438503499609*z"
+    },
+    {
+        "sympy_exp": "57.9601270133234*z",
+        "latex_expression": "57.9601270133234 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 57.9601270133234*z"
+    },
+    {
+        "sympy_exp": "2.51176021678982*x + 71.2752444341041*y + 6.6348130294406*z",
+        "latex_expression": "2.51176021678982 x + 71.2752444341041 y + 6.6348130294406 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 2.51176021678982*x + 71.2752444341041*y + 6.6348130294406*z"
+    },
+    {
+        "sympy_exp": "20.133677712831*x + 84.9486601159026*y + 25.7384486609844*z",
+        "latex_expression": "20.133677712831 x + 84.9486601159026 y + 25.7384486609844 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 20.133677712831*x + 84.9486601159026*y + 25.7384486609844*z"
+    },
+    {
+        "sympy_exp": "44.0179625559243*x + 85.9698850005095*y + 77.4859911277657*z",
+        "latex_expression": "44.0179625559243 x + 85.9698850005095 y + 77.4859911277657 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 44.0179625559243*x + 85.9698850005095*y + 77.4859911277657*z"
+    },
+    {
+        "sympy_exp": "81.4391509032562*y",
+        "latex_expression": "81.4391509032562 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 81.4391509032562*y"
+    },
+    {
+        "sympy_exp": "90.9521547923898*x + 17.4766190529872*y + 34.6745036364625*z",
+        "latex_expression": "90.9521547923898 x + 17.4766190529872 y + 34.6745036364625 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 90.9521547923898*x + 17.4766190529872*y + 34.6745036364625*z"
+    },
+    {
+        "sympy_exp": "16.1826515912999*z",
+        "latex_expression": "16.1826515912999 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 16.1826515912999*z"
+    },
+    {
+        "sympy_exp": "7.00950823262631*x + 26.7364417486686*z",
+        "latex_expression": "7.00950823262631 x + 26.7364417486686 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 7.00950823262631*x + 26.7364417486686*z"
+    },
+    {
+        "sympy_exp": "37.7715185600646*x + 7.96807114235818*z",
+        "latex_expression": "37.7715185600646 x + 7.96807114235818 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 37.7715185600646*x + 7.96807114235818*z"
+    },
+    {
+        "sympy_exp": "64.2933282311004*y",
+        "latex_expression": "64.2933282311004 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 64.2933282311004*y"
+    },
+    {
+        "sympy_exp": "41.1736715346972*x + 34.9573572442225*y + 77.993990965056*z",
+        "latex_expression": "41.1736715346972 x + 34.9573572442225 y + 77.993990965056 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 41.1736715346972*x + 34.9573572442225*y + 77.993990965056*z"
+    },
+    {
+        "sympy_exp": "35.2802857395593*x",
+        "latex_expression": "35.2802857395593 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 35.2802857395593*x"
+    },
+    {
+        "sympy_exp": "4.54096442422654*z",
+        "latex_expression": "4.54096442422654 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 4.54096442422654*z"
+    },
+    {
+        "sympy_exp": "15.7820456190954*x + 89.1282162200296*y + 60.7733938800343*z",
+        "latex_expression": "15.7820456190954 x + 89.1282162200296 y + 60.7733938800343 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 15.7820456190954*x + 89.1282162200296*y + 60.7733938800343*z"
+    },
+    {
+        "sympy_exp": "79.0039850977403*y + 54.6347542181073*z",
+        "latex_expression": "79.0039850977403 y + 54.6347542181073 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 79.0039850977403*y + 54.6347542181073*z"
+    },
+    {
+        "sympy_exp": "59.5376705209086*x + 93.1016619985899*y",
+        "latex_expression": "59.5376705209086 x + 93.1016619985899 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 59.5376705209086*x + 93.1016619985899*y"
+    },
+    {
+        "sympy_exp": "13.0330856829057*x + 41.5927602276247*y + 91.4146756004488*z",
+        "latex_expression": "13.0330856829057 x + 41.5927602276247 y + 91.4146756004488 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 13.0330856829057*x + 41.5927602276247*y + 91.4146756004488*z"
+    },
+    {
+        "sympy_exp": "67.7402150042304*x + 57.2325820740222*z",
+        "latex_expression": "67.7402150042304 x + 57.2325820740222 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 67.7402150042304*x + 57.2325820740222*z"
+    },
+    {
+        "sympy_exp": "81.1486564368041*y",
+        "latex_expression": "81.1486564368041 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 81.1486564368041*y"
+    },
+    {
+        "sympy_exp": "31.3832671690418*y",
+        "latex_expression": "31.3832671690418 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 31.3832671690418*y"
+    },
+    {
+        "sympy_exp": "7.45707541549285*y",
+        "latex_expression": "7.45707541549285 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 7.45707541549285*y"
+    },
+    {
+        "sympy_exp": "74.028669603613*y",
+        "latex_expression": "74.028669603613 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 74.028669603613*y"
+    },
+    {
+        "sympy_exp": "58.9163903896207*x",
+        "latex_expression": "58.9163903896207 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 58.9163903896207*x"
+    },
+    {
+        "sympy_exp": "26.0126391760232*x",
+        "latex_expression": "26.0126391760232 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 26.0126391760232*x"
+    },
+    {
+        "sympy_exp": "94.2659507680667*x + 6.32727382440334*y",
+        "latex_expression": "94.2659507680667 x + 6.32727382440334 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 94.2659507680667*x + 6.32727382440334*y"
+    },
+    {
+        "sympy_exp": "78.1084310293898*x + 82.462237571146*y",
+        "latex_expression": "78.1084310293898 x + 82.462237571146 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 78.1084310293898*x + 82.462237571146*y"
+    },
+    {
+        "sympy_exp": "91.3990275140764*x",
+        "latex_expression": "91.3990275140764 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 91.3990275140764*x"
+    },
+    {
+        "sympy_exp": "10.1612125196242*x + 35.3170040829648*y",
+        "latex_expression": "10.1612125196242 x + 35.3170040829648 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 10.1612125196242*x + 35.3170040829648*y"
+    },
+    {
+        "sympy_exp": "80.3242328352889*z",
+        "latex_expression": "80.3242328352889 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 80.3242328352889*z"
+    },
+    {
+        "sympy_exp": "35.8498077719425*x + 64.0406116728386*y + 6.63033197654279*z",
+        "latex_expression": "35.8498077719425 x + 64.0406116728386 y + 6.63033197654279 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 35.8498077719425*x + 64.0406116728386*y + 6.63033197654279*z"
+    },
+    {
+        "sympy_exp": "20.6830614220394*x",
+        "latex_expression": "20.6830614220394 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 20.6830614220394*x"
+    },
+    {
+        "sympy_exp": "14.3424295389722*x + 24.2328808389253*y + 59.9115278775143*z",
+        "latex_expression": "14.3424295389722 x + 24.2328808389253 y + 59.9115278775143 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 14.3424295389722*x + 24.2328808389253*y + 59.9115278775143*z"
+    },
+    {
+        "sympy_exp": "59.9000497277163*y",
+        "latex_expression": "59.9000497277163 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 59.9000497277163*y"
+    },
+    {
+        "sympy_exp": "40.2540142604553*x + 49.2149811701005*y + 29.9075719472723*z",
+        "latex_expression": "40.2540142604553 x + 49.2149811701005 y + 29.9075719472723 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 40.2540142604553*x + 49.2149811701005*y + 29.9075719472723*z"
+    },
+    {
+        "sympy_exp": "29.5180888325427*z",
+        "latex_expression": "29.5180888325427 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 29.5180888325427*z"
+    },
+    {
+        "sympy_exp": "54.4846730958426*z",
+        "latex_expression": "54.4846730958426 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 54.4846730958426*z"
+    },
+    {
+        "sympy_exp": "41.8564090774697*x + 7.78376819274461*z",
+        "latex_expression": "41.8564090774697 x + 7.78376819274461 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 41.8564090774697*x + 7.78376819274461*z"
+    },
+    {
+        "sympy_exp": "63.7434995339049*z",
+        "latex_expression": "63.7434995339049 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 63.7434995339049*z"
+    },
+    {
+        "sympy_exp": "68.2611750084615*z",
+        "latex_expression": "68.2611750084615 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 68.2611750084615*z"
+    },
+    {
+        "sympy_exp": "45.8773035755274*y + 35.2915121642033*z",
+        "latex_expression": "45.8773035755274 y + 35.2915121642033 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 45.8773035755274*y + 35.2915121642033*z"
+    },
+    {
+        "sympy_exp": "61.9199474450176*x + 81.3242967036046*y + 13.1753260464902*z",
+        "latex_expression": "61.9199474450176 x + 81.3242967036046 y + 13.1753260464902 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 61.9199474450176*x + 81.3242967036046*y + 13.1753260464902*z"
+    },
+    {
+        "sympy_exp": "70.1122916168716*x + 9.2263107360886*y + 81.9412509977403*z",
+        "latex_expression": "70.1122916168716 x + 9.2263107360886 y + 81.9412509977403 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 70.1122916168716*x + 9.2263107360886*y + 81.9412509977403*z"
+    },
+    {
+        "sympy_exp": "25.5621868707463*x + 91.8016540371148*y + 54.4205792571749*z",
+        "latex_expression": "25.5621868707463 x + 91.8016540371148 y + 54.4205792571749 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 25.5621868707463*x + 91.8016540371148*y + 54.4205792571749*z"
+    },
+    {
+        "sympy_exp": "73.8344507787283*y + 10.1977091634368*z",
+        "latex_expression": "73.8344507787283 y + 10.1977091634368 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 73.8344507787283*y + 10.1977091634368*z"
+    },
+    {
+        "sympy_exp": "9.04322812525058*y",
+        "latex_expression": "9.04322812525058 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 9.04322812525058*y"
+    },
+    {
+        "sympy_exp": "62.2684226351399*x + 2.62555404958785*y + 40.6743464988677*z",
+        "latex_expression": "62.2684226351399 x + 2.62555404958785 y + 40.6743464988677 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 62.2684226351399*x + 2.62555404958785*y + 40.6743464988677*z"
+    },
+    {
+        "sympy_exp": "9.11899932419235*x + 68.6560631586618*y + 82.1231331566158*z",
+        "latex_expression": "9.11899932419235 x + 68.6560631586618 y + 82.1231331566158 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 9.11899932419235*x + 68.6560631586618*y + 82.1231331566158*z"
+    },
+    {
+        "sympy_exp": "64.7399437662305*x + 9.44752692329505*y + 57.2359907234727*z",
+        "latex_expression": "64.7399437662305 x + 9.44752692329505 y + 57.2359907234727 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 64.7399437662305*x + 9.44752692329505*y + 57.2359907234727*z"
+    },
+    {
+        "sympy_exp": "4.61840140677315*x",
+        "latex_expression": "4.61840140677315 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 4.61840140677315*x"
+    },
+    {
+        "sympy_exp": "24.4442823839448*y + 56.9676626266484*z",
+        "latex_expression": "24.4442823839448 y + 56.9676626266484 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 24.4442823839448*y + 56.9676626266484*z"
+    },
+    {
+        "sympy_exp": "84.0575118350195*x + 81.5372020263043*y",
+        "latex_expression": "84.0575118350195 x + 81.5372020263043 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 84.0575118350195*x + 81.5372020263043*y"
+    },
+    {
+        "sympy_exp": "23.6705174975785*y + 43.0748890971664*z",
+        "latex_expression": "23.6705174975785 y + 43.0748890971664 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 23.6705174975785*y + 43.0748890971664*z"
+    },
+    {
+        "sympy_exp": "62.570368569718*x + 63.6126724552697*z",
+        "latex_expression": "62.570368569718 x + 63.6126724552697 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 62.570368569718*x + 63.6126724552697*z"
+    },
+    {
+        "sympy_exp": "40.3930818998728*x + 58.971299958882*y + 90.8306979806603*z",
+        "latex_expression": "40.3930818998728 x + 58.971299958882 y + 90.8306979806603 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 40.3930818998728*x + 58.971299958882*y + 90.8306979806603*z"
+    },
+    {
+        "sympy_exp": "11.6144579112505*x + 14.2484205322759*y + 85.9906229094904*z",
+        "latex_expression": "11.6144579112505 x + 14.2484205322759 y + 85.9906229094904 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 11.6144579112505*x + 14.2484205322759*y + 85.9906229094904*z"
+    },
+    {
+        "sympy_exp": "82.2943051691898*y",
+        "latex_expression": "82.2943051691898 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 82.2943051691898*y"
+    },
+    {
+        "sympy_exp": "79.2538186136318*z",
+        "latex_expression": "79.2538186136318 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 79.2538186136318*z"
+    },
+    {
+        "sympy_exp": "64.1967474452536*z",
+        "latex_expression": "64.1967474452536 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 64.1967474452536*z"
+    },
+    {
+        "sympy_exp": "91.7034541508334*x + 80.8155966160303*y + 59.6013682405468*z",
+        "latex_expression": "91.7034541508334 x + 80.8155966160303 y + 59.6013682405468 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 91.7034541508334*x + 80.8155966160303*y + 59.6013682405468*z"
+    },
+    {
+        "sympy_exp": "44.4042495375855*x + 49.7276735862759*z",
+        "latex_expression": "44.4042495375855 x + 49.7276735862759 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 44.4042495375855*x + 49.7276735862759*z"
+    },
+    {
+        "sympy_exp": "74.8303646668929*x",
+        "latex_expression": "74.8303646668929 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 74.8303646668929*x"
+    },
+    {
+        "sympy_exp": "7.8461814072925*x + 37.8660705946242*y + 49.8904275074*z",
+        "latex_expression": "7.8461814072925 x + 37.8660705946242 y + 49.8904275074 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 7.8461814072925*x + 37.8660705946242*y + 49.8904275074*z"
+    },
+    {
+        "sympy_exp": "87.176985128482*x + 97.5465282805975*y + 94.2263943481225*z",
+        "latex_expression": "87.176985128482 x + 97.5465282805975 y + 94.2263943481225 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 87.176985128482*x + 97.5465282805975*y + 94.2263943481225*z"
+    },
+    {
+        "sympy_exp": "3.12825865109245*x + 31.4362772873812*y + 82.625968443475*z",
+        "latex_expression": "3.12825865109245 x + 31.4362772873812 y + 82.625968443475 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 3.12825865109245*x + 31.4362772873812*y + 82.625968443475*z"
+    },
+    {
+        "sympy_exp": "29.7681661224676*y + 36.1477716681768*z",
+        "latex_expression": "29.7681661224676 y + 36.1477716681768 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 29.7681661224676*y + 36.1477716681768*z"
+    },
+    {
+        "sympy_exp": "66.8652144539557*x + 52.4169420174639*y",
+        "latex_expression": "66.8652144539557 x + 52.4169420174639 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 66.8652144539557*x + 52.4169420174639*y"
+    },
+    {
+        "sympy_exp": "18.3922357025734*x + 62.3833538680592*y + 31.978211773868*z",
+        "latex_expression": "18.3922357025734 x + 62.3833538680592 y + 31.978211773868 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 18.3922357025734*x + 62.3833538680592*y + 31.978211773868*z"
+    },
+    {
+        "sympy_exp": "25.2275751959159*x + 18.5698541244817*y + 58.8793156278574*z",
+        "latex_expression": "25.2275751959159 x + 18.5698541244817 y + 58.8793156278574 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 25.2275751959159*x + 18.5698541244817*y + 58.8793156278574*z"
+    },
+    {
+        "sympy_exp": "82.6008767194309*x + 87.1512129761331*y + 53.2432528172205*z",
+        "latex_expression": "82.6008767194309 x + 87.1512129761331 y + 53.2432528172205 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 82.6008767194309*x + 87.1512129761331*y + 53.2432528172205*z"
+    },
+    {
+        "sympy_exp": "44.9970794416298*x",
+        "latex_expression": "44.9970794416298 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 44.9970794416298*x"
+    },
+    {
+        "sympy_exp": "98.6222725705655*x + 28.0769390430145*y + 7.529543175085*z",
+        "latex_expression": "98.6222725705655 x + 28.0769390430145 y + 7.529543175085 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 98.6222725705655*x + 28.0769390430145*y + 7.529543175085*z"
+    },
+    {
+        "sympy_exp": "24.5191457651367*x",
+        "latex_expression": "24.5191457651367 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 24.5191457651367*x"
+    },
+    {
+        "sympy_exp": "12.914456333855*x + 17.9181081089976*z",
+        "latex_expression": "12.914456333855 x + 17.9181081089976 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 12.914456333855*x + 17.9181081089976*z"
+    },
+    {
+        "sympy_exp": "59.9932044381153*x + 7.60770696771185*y + 89.6078736837559*z",
+        "latex_expression": "59.9932044381153 x + 7.60770696771185 y + 89.6078736837559 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 59.9932044381153*x + 7.60770696771185*y + 89.6078736837559*z"
+    },
+    {
+        "sympy_exp": "34.5247691086997*z",
+        "latex_expression": "34.5247691086997 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 34.5247691086997*z"
+    },
+    {
+        "sympy_exp": "52.4697815641739*y",
+        "latex_expression": "52.4697815641739 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 52.4697815641739*y"
+    },
+    {
+        "sympy_exp": "7.99336400459162*y",
+        "latex_expression": "7.99336400459162 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 7.99336400459162*y"
+    },
+    {
+        "sympy_exp": "82.9965095814896*x + 46.8859630477296*y + 59.7658243869696*z",
+        "latex_expression": "82.9965095814896 x + 46.8859630477296 y + 59.7658243869696 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 82.9965095814896*x + 46.8859630477296*y + 59.7658243869696*z"
+    },
+    {
+        "sympy_exp": "71.9284350925216*x + 26.0303786875766*y",
+        "latex_expression": "71.9284350925216 x + 26.0303786875766 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 71.9284350925216*x + 26.0303786875766*y"
+    },
+    {
+        "sympy_exp": "83.890339448415*x",
+        "latex_expression": "83.890339448415 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 83.890339448415*x"
+    },
+    {
+        "sympy_exp": "40.9838266656625*z",
+        "latex_expression": "40.9838266656625 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 40.9838266656625*z"
+    },
+    {
+        "sympy_exp": "37.6371366450056*z",
+        "latex_expression": "37.6371366450056 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 37.6371366450056*z"
+    },
+    {
+        "sympy_exp": "71.4097425827201*x + 14.3648506293573*y + 33.6232877658044*z",
+        "latex_expression": "71.4097425827201 x + 14.3648506293573 y + 33.6232877658044 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 71.4097425827201*x + 14.3648506293573*y + 33.6232877658044*z"
+    },
+    {
+        "sympy_exp": "6.27387240399456*y + 19.9877030787572*z",
+        "latex_expression": "6.27387240399456 y + 19.9877030787572 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 6.27387240399456*y + 19.9877030787572*z"
+    },
+    {
+        "sympy_exp": "90.2728060653901*x + 11.2046146223687*y + 46.693483570183*z",
+        "latex_expression": "90.2728060653901 x + 11.2046146223687 y + 46.693483570183 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 90.2728060653901*x + 11.2046146223687*y + 46.693483570183*z"
+    },
+    {
+        "sympy_exp": "9.57976025518784*x + 59.5656996264787*y + 22.4703168643758*z",
+        "latex_expression": "9.57976025518784 x + 59.5656996264787 y + 22.4703168643758 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 9.57976025518784*x + 59.5656996264787*y + 22.4703168643758*z"
+    },
+    {
+        "sympy_exp": "33.376621152142*x",
+        "latex_expression": "33.376621152142 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 33.376621152142*x"
+    },
+    {
+        "sympy_exp": "7.68832227489936*x + 12.3163066027319*y + 1.40669745540144*z",
+        "latex_expression": "7.68832227489936 x + 12.3163066027319 y + 1.40669745540144 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 7.68832227489936*x + 12.3163066027319*y + 1.40669745540144*z"
+    },
+    {
+        "sympy_exp": "55.2288873114023*x + 28.0290640382295*z",
+        "latex_expression": "55.2288873114023 x + 28.0290640382295 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 55.2288873114023*x + 28.0290640382295*z"
+    },
+    {
+        "sympy_exp": "58.7800634660602*x + 97.3561050150084*y + 34.4651341891389*z",
+        "latex_expression": "58.7800634660602 x + 97.3561050150084 y + 34.4651341891389 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 58.7800634660602*x + 97.3561050150084*y + 34.4651341891389*z"
+    },
+    {
+        "sympy_exp": "46.8566445538655*y + 92.5956583298488*z",
+        "latex_expression": "46.8566445538655 y + 92.5956583298488 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 46.8566445538655*y + 92.5956583298488*z"
+    },
+    {
+        "sympy_exp": "36.1080384428452*x + 3.51699286532156*z",
+        "latex_expression": "36.1080384428452 x + 3.51699286532156 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 36.1080384428452*x + 3.51699286532156*z"
+    },
+    {
+        "sympy_exp": "16.6989172921765*x + 5.61197809632411*y + 70.9242417077644*z",
+        "latex_expression": "16.6989172921765 x + 5.61197809632411 y + 70.9242417077644 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 16.6989172921765*x + 5.61197809632411*y + 70.9242417077644*z"
+    },
+    {
+        "sympy_exp": "48.5036491208754*x + 98.2786228805772*y + 41.3756066615632*z",
+        "latex_expression": "48.5036491208754 x + 98.2786228805772 y + 41.3756066615632 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 48.5036491208754*x + 98.2786228805772*y + 41.3756066615632*z"
+    },
+    {
+        "sympy_exp": "27.887445332875*z",
+        "latex_expression": "27.887445332875 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 27.887445332875*z"
+    },
+    {
+        "sympy_exp": "44.7881464054649*z",
+        "latex_expression": "44.7881464054649 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 44.7881464054649*z"
+    },
+    {
+        "sympy_exp": "46.4453500876399*x",
+        "latex_expression": "46.4453500876399 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 46.4453500876399*x"
+    },
+    {
+        "sympy_exp": "91.3647156615441*x + 78.0550794322576*z",
+        "latex_expression": "91.3647156615441 x + 78.0550794322576 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 91.3647156615441*x + 78.0550794322576*z"
+    },
+    {
+        "sympy_exp": "61.3527149330297*x + 7.19822448556873*y",
+        "latex_expression": "61.3527149330297 x + 7.19822448556873 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 61.3527149330297*x + 7.19822448556873*y"
+    },
+    {
+        "sympy_exp": "21.7565461305205*z",
+        "latex_expression": "21.7565461305205 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 21.7565461305205*z"
+    },
+    {
+        "sympy_exp": "89.5844750334207*x",
+        "latex_expression": "89.5844750334207 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 89.5844750334207*x"
+    },
+    {
+        "sympy_exp": "94.902138974797*x + 60.0618951495399*z",
+        "latex_expression": "94.902138974797 x + 60.0618951495399 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 94.902138974797*x + 60.0618951495399*z"
+    },
+    {
+        "sympy_exp": "44.5469235977003*x + 9.33033109387299*z",
+        "latex_expression": "44.5469235977003 x + 9.33033109387299 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 44.5469235977003*x + 9.33033109387299*z"
+    },
+    {
+        "sympy_exp": "99.8032982576174*y",
+        "latex_expression": "99.8032982576174 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 99.8032982576174*y"
+    },
+    {
+        "sympy_exp": "46.0948011529022*x + 48.3757747746706*z",
+        "latex_expression": "46.0948011529022 x + 48.3757747746706 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 46.0948011529022*x + 48.3757747746706*z"
+    },
+    {
+        "sympy_exp": "11.5562284282962*y",
+        "latex_expression": "11.5562284282962 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 11.5562284282962*y"
+    },
+    {
+        "sympy_exp": "25.4222361894163*x + 97.0873929424203*y + 75.8041252293874*z",
+        "latex_expression": "25.4222361894163 x + 97.0873929424203 y + 75.8041252293874 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 25.4222361894163*x + 97.0873929424203*y + 75.8041252293874*z"
+    },
+    {
+        "sympy_exp": "9.95785515248812*x + 2.32150239791183*y",
+        "latex_expression": "9.95785515248812 x + 2.32150239791183 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 9.95785515248812*x + 2.32150239791183*y"
+    },
+    {
+        "sympy_exp": "50.3991491980458*x",
+        "latex_expression": "50.3991491980458 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 50.3991491980458*x"
+    },
+    {
+        "sympy_exp": "42.8126283479551*z",
+        "latex_expression": "42.8126283479551 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 42.8126283479551*z"
+    },
+    {
+        "sympy_exp": "38.2730208239767*x + 22.6963913501853*z",
+        "latex_expression": "38.2730208239767 x + 22.6963913501853 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 38.2730208239767*x + 22.6963913501853*z"
+    },
+    {
+        "sympy_exp": "23.5340096144934*x + 13.6115091834034*y",
+        "latex_expression": "23.5340096144934 x + 13.6115091834034 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 23.5340096144934*x + 13.6115091834034*y"
+    },
+    {
+        "sympy_exp": "11.3449825133515*x + 93.9040174623211*y",
+        "latex_expression": "11.3449825133515 x + 93.9040174623211 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 11.3449825133515*x + 93.9040174623211*y"
+    },
+    {
+        "sympy_exp": "34.0745255771881*x + 65.8479706815714*y + 69.3781091853781*z",
+        "latex_expression": "34.0745255771881 x + 65.8479706815714 y + 69.3781091853781 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 34.0745255771881*x + 65.8479706815714*y + 69.3781091853781*z"
+    },
+    {
+        "sympy_exp": "79.4172187280864*x + 73.601328404716*y + 82.7565259915501*z",
+        "latex_expression": "79.4172187280864 x + 73.601328404716 y + 82.7565259915501 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 79.4172187280864*x + 73.601328404716*y + 82.7565259915501*z"
+    },
+    {
+        "sympy_exp": "40.4769695131366*x + 28.0815377880897*y + 88.5185809885205*z",
+        "latex_expression": "40.4769695131366 x + 28.0815377880897 y + 88.5185809885205 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 40.4769695131366*x + 28.0815377880897*y + 88.5185809885205*z"
+    },
+    {
+        "sympy_exp": "25.2026802980793*x + 73.9404525460032*y + 66.4760111279095*z",
+        "latex_expression": "25.2026802980793 x + 73.9404525460032 y + 66.4760111279095 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 25.2026802980793*x + 73.9404525460032*y + 66.4760111279095*z"
+    },
+    {
+        "sympy_exp": "12.348946826537*x + 71.1608907088686*y",
+        "latex_expression": "12.348946826537 x + 71.1608907088686 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 12.348946826537*x + 71.1608907088686*y"
+    },
+    {
+        "sympy_exp": "60.4763197524856*y + 81.6919020018093*z",
+        "latex_expression": "60.4763197524856 y + 81.6919020018093 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 60.4763197524856*y + 81.6919020018093*z"
+    },
+    {
+        "sympy_exp": "34.0695849224405*z",
+        "latex_expression": "34.0695849224405 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 34.0695849224405*z"
+    },
+    {
+        "sympy_exp": "77.3856059754764*x + 44.7210456059737*y + 76.4782981103527*z",
+        "latex_expression": "77.3856059754764 x + 44.7210456059737 y + 76.4782981103527 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 77.3856059754764*x + 44.7210456059737*y + 76.4782981103527*z"
+    },
+    {
+        "sympy_exp": "93.8309623192293*x + 31.1424645150281*y",
+        "latex_expression": "93.8309623192293 x + 31.1424645150281 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 93.8309623192293*x + 31.1424645150281*y"
+    },
+    {
+        "sympy_exp": "36.6738904434883*x + 60.4084626733215*y + 95.157805652518*z",
+        "latex_expression": "36.6738904434883 x + 60.4084626733215 y + 95.157805652518 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 36.6738904434883*x + 60.4084626733215*y + 95.157805652518*z"
+    },
+    {
+        "sympy_exp": "41.961419594975*x",
+        "latex_expression": "41.961419594975 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 41.961419594975*x"
+    },
+    {
+        "sympy_exp": "81.2657595813134*z",
+        "latex_expression": "81.2657595813134 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 81.2657595813134*z"
+    },
+    {
+        "sympy_exp": "26.1874150158275*x + 87.7036193196634*y + 4.44290108272433*z",
+        "latex_expression": "26.1874150158275 x + 87.7036193196634 y + 4.44290108272433 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 26.1874150158275*x + 87.7036193196634*y + 4.44290108272433*z"
+    },
+    {
+        "sympy_exp": "48.6552924807939*x + 72.3670973629178*y",
+        "latex_expression": "48.6552924807939 x + 72.3670973629178 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 48.6552924807939*x + 72.3670973629178*y"
+    },
+    {
+        "sympy_exp": "94.0902975948244*x + 22.3207244305439*y + 5.83752714931004*z",
+        "latex_expression": "94.0902975948244 x + 22.3207244305439 y + 5.83752714931004 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 94.0902975948244*x + 22.3207244305439*y + 5.83752714931004*z"
+    },
+    {
+        "sympy_exp": "67.6069931775857*x",
+        "latex_expression": "67.6069931775857 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 67.6069931775857*x"
+    },
+    {
+        "sympy_exp": "82.7223271416508*x + 49.3647979066654*y + 29.744079879418*z",
+        "latex_expression": "82.7223271416508 x + 49.3647979066654 y + 29.744079879418 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 82.7223271416508*x + 49.3647979066654*y + 29.744079879418*z"
+    },
+    {
+        "sympy_exp": "13.4162411564825*x",
+        "latex_expression": "13.4162411564825 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 13.4162411564825*x"
+    },
+    {
+        "sympy_exp": "15.2948020946099*x + 10.5289711212243*z",
+        "latex_expression": "15.2948020946099 x + 10.5289711212243 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 15.2948020946099*x + 10.5289711212243*z"
+    },
+    {
+        "sympy_exp": "53.7838940028302*x + 27.9516089698394*y + 84.3988018824887*z",
+        "latex_expression": "53.7838940028302 x + 27.9516089698394 y + 84.3988018824887 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 53.7838940028302*x + 27.9516089698394*y + 84.3988018824887*z"
+    },
+    {
+        "sympy_exp": "25.7972268316312*x",
+        "latex_expression": "25.7972268316312 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 25.7972268316312*x"
+    },
+    {
+        "sympy_exp": "22.1991838416542*x + 92.0934563121116*y + 56.7235111813784*z",
+        "latex_expression": "22.1991838416542 x + 92.0934563121116 y + 56.7235111813784 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 22.1991838416542*x + 92.0934563121116*y + 56.7235111813784*z"
+    },
+    {
+        "sympy_exp": "3.69858944769223*y",
+        "latex_expression": "3.69858944769223 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 3.69858944769223*y"
+    },
+    {
+        "sympy_exp": "66.0660743961232*z",
+        "latex_expression": "66.0660743961232 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 66.0660743961232*z"
+    },
+    {
+        "sympy_exp": "50.5947325201536*x + 76.7433441783909*z",
+        "latex_expression": "50.5947325201536 x + 76.7433441783909 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 50.5947325201536*x + 76.7433441783909*z"
+    },
+    {
+        "sympy_exp": "77.5021401155606*x + 68.9038074196804*y",
+        "latex_expression": "77.5021401155606 x + 68.9038074196804 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 77.5021401155606*x + 68.9038074196804*y"
+    },
+    {
+        "sympy_exp": "23.251394897135*x + 54.4937741269487*y + 34.7632446922813*z",
+        "latex_expression": "23.251394897135 x + 54.4937741269487 y + 34.7632446922813 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 23.251394897135*x + 54.4937741269487*y + 34.7632446922813*z"
+    },
+    {
+        "sympy_exp": "65.9767522347271*y + 38.7549336924855*z",
+        "latex_expression": "65.9767522347271 y + 38.7549336924855 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 65.9767522347271*y + 38.7549336924855*z"
+    },
+    {
+        "sympy_exp": "84.6219586128094*x + 99.4699208205298*z",
+        "latex_expression": "84.6219586128094 x + 99.4699208205298 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 84.6219586128094*x + 99.4699208205298*z"
+    },
+    {
+        "sympy_exp": "37.2827056010253*x + 10.2889371189179*y",
+        "latex_expression": "37.2827056010253 x + 10.2889371189179 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 37.2827056010253*x + 10.2889371189179*y"
+    },
+    {
+        "sympy_exp": "83.0046101919427*z",
+        "latex_expression": "83.0046101919427 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 83.0046101919427*z"
+    },
+    {
+        "sympy_exp": "63.3883177901114*x + 14.0234919223046*z",
+        "latex_expression": "63.3883177901114 x + 14.0234919223046 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 63.3883177901114*x + 14.0234919223046*z"
+    },
+    {
+        "sympy_exp": "33.9141067590963*x + 51.5375530156951*y + 57.7087785428373*z",
+        "latex_expression": "33.9141067590963 x + 51.5375530156951 y + 57.7087785428373 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 33.9141067590963*x + 51.5375530156951*y + 57.7087785428373*z"
+    },
+    {
+        "sympy_exp": "85.746783533394*y + 94.7445629208402*z",
+        "latex_expression": "85.746783533394 y + 94.7445629208402 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 85.746783533394*y + 94.7445629208402*z"
+    },
+    {
+        "sympy_exp": "72.6680508611595*x + 19.8835084487742*y",
+        "latex_expression": "72.6680508611595 x + 19.8835084487742 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 72.6680508611595*x + 19.8835084487742*y"
+    },
+    {
+        "sympy_exp": "3.65800481757154*y",
+        "latex_expression": "3.65800481757154 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 3.65800481757154*y"
+    },
+    {
+        "sympy_exp": "7.65350166277929*x + 92.8010434975177*y + 99.2823804635848*z",
+        "latex_expression": "7.65350166277929 x + 92.8010434975177 y + 99.2823804635848 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 7.65350166277929*x + 92.8010434975177*y + 99.2823804635848*z"
+    },
+    {
+        "sympy_exp": "96.6065377268005*x + 40.2006019976636*y",
+        "latex_expression": "96.6065377268005 x + 40.2006019976636 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 96.6065377268005*x + 40.2006019976636*y"
+    },
+    {
+        "sympy_exp": "85.8530129911803*y + 26.5326671883672*z",
+        "latex_expression": "85.8530129911803 y + 26.5326671883672 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 85.8530129911803*y + 26.5326671883672*z"
+    },
+    {
+        "sympy_exp": "59.2124624289905*x + 93.8857158712046*y + 9.05217952233885*z",
+        "latex_expression": "59.2124624289905 x + 93.8857158712046 y + 9.05217952233885 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 59.2124624289905*x + 93.8857158712046*y + 9.05217952233885*z"
+    },
+    {
+        "sympy_exp": "8.42322947133815*x + 97.5479068225298*y + 91.5039305014439*z",
+        "latex_expression": "8.42322947133815 x + 97.5479068225298 y + 91.5039305014439 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 8.42322947133815*x + 97.5479068225298*y + 91.5039305014439*z"
+    },
+    {
+        "sympy_exp": "1.31435748875592*x + 58.7731170989923*y + 29.2989431454447*z",
+        "latex_expression": "1.31435748875592 x + 58.7731170989923 y + 29.2989431454447 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 1.31435748875592*x + 58.7731170989923*y + 29.2989431454447*z"
+    },
+    {
+        "sympy_exp": "52.2797449893222*x",
+        "latex_expression": "52.2797449893222 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 52.2797449893222*x"
+    },
+    {
+        "sympy_exp": "42.0791061406321*x + 69.7737567732496*y + 53.2092545234858*z",
+        "latex_expression": "42.0791061406321 x + 69.7737567732496 y + 53.2092545234858 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 42.0791061406321*x + 69.7737567732496*y + 53.2092545234858*z"
+    },
+    {
+        "sympy_exp": "87.8739200696778*x + 13.4093233689991*z",
+        "latex_expression": "87.8739200696778 x + 13.4093233689991 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 87.8739200696778*x + 13.4093233689991*z"
+    },
+    {
+        "sympy_exp": "56.8045315221007*y + 92.6358565845551*z",
+        "latex_expression": "56.8045315221007 y + 92.6358565845551 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 56.8045315221007*y + 92.6358565845551*z"
+    },
+    {
+        "sympy_exp": "50.1663098751936*x + 88.7997458816861*y",
+        "latex_expression": "50.1663098751936 x + 88.7997458816861 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 50.1663098751936*x + 88.7997458816861*y"
+    },
+    {
+        "sympy_exp": "67.9078123949681*z",
+        "latex_expression": "67.9078123949681 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 67.9078123949681*z"
+    },
+    {
+        "sympy_exp": "90.3907649360836*z",
+        "latex_expression": "90.3907649360836 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 90.3907649360836*z"
+    },
+    {
+        "sympy_exp": "2.96162579007364*x + 61.2560360677321*y + 77.0791268390171*z",
+        "latex_expression": "2.96162579007364 x + 61.2560360677321 y + 77.0791268390171 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 2.96162579007364*x + 61.2560360677321*y + 77.0791268390171*z"
+    },
+    {
+        "sympy_exp": "59.0343390684427*y",
+        "latex_expression": "59.0343390684427 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 59.0343390684427*y"
+    },
+    {
+        "sympy_exp": "29.3019685239797*x + 94.0265092024812*y",
+        "latex_expression": "29.3019685239797 x + 94.0265092024812 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 29.3019685239797*x + 94.0265092024812*y"
+    },
+    {
+        "sympy_exp": "17.7715498833443*z",
+        "latex_expression": "17.7715498833443 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 17.7715498833443*z"
+    },
+    {
+        "sympy_exp": "72.3588885077311*x + 60.6278065280459*y + 58.1534677288237*z",
+        "latex_expression": "72.3588885077311 x + 60.6278065280459 y + 58.1534677288237 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 72.3588885077311*x + 60.6278065280459*y + 58.1534677288237*z"
+    },
+    {
+        "sympy_exp": "90.7310463311724*z",
+        "latex_expression": "90.7310463311724 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 90.7310463311724*z"
+    },
+    {
+        "sympy_exp": "42.3561473048394*y + 75.4354936182892*z",
+        "latex_expression": "42.3561473048394 y + 75.4354936182892 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 42.3561473048394*y + 75.4354936182892*z"
+    },
+    {
+        "sympy_exp": "5.73457253420239*y + 38.1623357840385*z",
+        "latex_expression": "5.73457253420239 y + 38.1623357840385 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 5.73457253420239*y + 38.1623357840385*z"
+    },
+    {
+        "sympy_exp": "70.2711713520888*x + 52.2538944853742*y + 81.6193026216409*z",
+        "latex_expression": "70.2711713520888 x + 52.2538944853742 y + 81.6193026216409 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 70.2711713520888*x + 52.2538944853742*y + 81.6193026216409*z"
+    },
+    {
+        "sympy_exp": "85.1272936830678*x",
+        "latex_expression": "85.1272936830678 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 85.1272936830678*x"
+    },
+    {
+        "sympy_exp": "92.5710678023798*x + 95.0607224800127*y",
+        "latex_expression": "92.5710678023798 x + 95.0607224800127 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 92.5710678023798*x + 95.0607224800127*y"
+    },
+    {
+        "sympy_exp": "52.2196699802231*y",
+        "latex_expression": "52.2196699802231 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 52.2196699802231*y"
+    },
+    {
+        "sympy_exp": "11.5884994680297*y + 6.62167999887181*z",
+        "latex_expression": "11.5884994680297 y + 6.62167999887181 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 11.5884994680297*y + 6.62167999887181*z"
+    },
+    {
+        "sympy_exp": "63.4841706896941*y",
+        "latex_expression": "63.4841706896941 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 63.4841706896941*y"
+    },
+    {
+        "sympy_exp": "78.3786026570149*x + 59.5090414234352*y",
+        "latex_expression": "78.3786026570149 x + 59.5090414234352 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 78.3786026570149*x + 59.5090414234352*y"
+    },
+    {
+        "sympy_exp": "98.6271556176635*y",
+        "latex_expression": "98.6271556176635 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 98.6271556176635*y"
+    },
+    {
+        "sympy_exp": "88.5908854681709*x + 22.9431665251819*y + 97.4146533598792*z",
+        "latex_expression": "88.5908854681709 x + 22.9431665251819 y + 97.4146533598792 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 88.5908854681709*x + 22.9431665251819*y + 97.4146533598792*z"
+    },
+    {
+        "sympy_exp": "62.1653205273883*y",
+        "latex_expression": "62.1653205273883 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 62.1653205273883*y"
+    },
+    {
+        "sympy_exp": "55.6147902824388*z",
+        "latex_expression": "55.6147902824388 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 55.6147902824388*z"
+    },
+    {
+        "sympy_exp": "82.0876079619921*x + 44.6757894303672*y + 40.9158822629662*z",
+        "latex_expression": "82.0876079619921 x + 44.6757894303672 y + 40.9158822629662 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 82.0876079619921*x + 44.6757894303672*y + 40.9158822629662*z"
+    },
+    {
+        "sympy_exp": "92.9729176478663*x + 14.2152179206876*y",
+        "latex_expression": "92.9729176478663 x + 14.2152179206876 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 92.9729176478663*x + 14.2152179206876*y"
+    },
+    {
+        "sympy_exp": "87.5263838338777*x + 24.7839125292504*y + 23.4115002547789*z",
+        "latex_expression": "87.5263838338777 x + 24.7839125292504 y + 23.4115002547789 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 87.5263838338777*x + 24.7839125292504*y + 23.4115002547789*z"
+    },
+    {
+        "sympy_exp": "18.6779658185677*x + 94.1177476557832*y + 3.19505438071029*z",
+        "latex_expression": "18.6779658185677 x + 94.1177476557832 y + 3.19505438071029 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 18.6779658185677*x + 94.1177476557832*y + 3.19505438071029*z"
+    },
+    {
+        "sympy_exp": "7.5071718363982*x + 25.3114929102803*z",
+        "latex_expression": "7.5071718363982 x + 25.3114929102803 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 7.5071718363982*x + 25.3114929102803*z"
+    },
+    {
+        "sympy_exp": "60.3652307570676*z",
+        "latex_expression": "60.3652307570676 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 60.3652307570676*z"
+    },
+    {
+        "sympy_exp": "26.8719238503136*x + 97.1582542626643*z",
+        "latex_expression": "26.8719238503136 x + 97.1582542626643 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 26.8719238503136*x + 97.1582542626643*z"
+    },
+    {
+        "sympy_exp": "86.0223209068488*z",
+        "latex_expression": "86.0223209068488 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 86.0223209068488*z"
+    },
+    {
+        "sympy_exp": "50.9766116832543*x + 50.1179853254234*y + 40.3122053944509*z",
+        "latex_expression": "50.9766116832543 x + 50.1179853254234 y + 40.3122053944509 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 50.9766116832543*x + 50.1179853254234*y + 40.3122053944509*z"
+    },
+    {
+        "sympy_exp": "57.518209632939*x + 5.32515344523643*y + 55.4019232013713*z",
+        "latex_expression": "57.518209632939 x + 5.32515344523643 y + 55.4019232013713 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 57.518209632939*x + 5.32515344523643*y + 55.4019232013713*z"
+    },
+    {
+        "sympy_exp": "24.6957125440536*x + 17.9493558605496*y + 43.4696740197134*z",
+        "latex_expression": "24.6957125440536 x + 17.9493558605496 y + 43.4696740197134 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 24.6957125440536*x + 17.9493558605496*y + 43.4696740197134*z"
+    },
+    {
+        "sympy_exp": "64.4883799432417*x + 42.9428689838774*y + 92.5673604983002*z",
+        "latex_expression": "64.4883799432417 x + 42.9428689838774 y + 92.5673604983002 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 64.4883799432417*x + 42.9428689838774*y + 92.5673604983002*z"
+    },
+    {
+        "sympy_exp": "30.5241642060743*x + 43.8168332724202*y + 75.1598481942448*z",
+        "latex_expression": "30.5241642060743 x + 43.8168332724202 y + 75.1598481942448 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 30.5241642060743*x + 43.8168332724202*y + 75.1598481942448*z"
+    },
+    {
+        "sympy_exp": "40.9003687458975*x + 24.9275046337803*y + 21.4984761341089*z",
+        "latex_expression": "40.9003687458975 x + 24.9275046337803 y + 21.4984761341089 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 40.9003687458975*x + 24.9275046337803*y + 21.4984761341089*z"
+    },
+    {
+        "sympy_exp": "33.2002312648523*x + 55.7747291797299*y + 98.1494133064075*z",
+        "latex_expression": "33.2002312648523 x + 55.7747291797299 y + 98.1494133064075 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 33.2002312648523*x + 55.7747291797299*y + 98.1494133064075*z"
+    },
+    {
+        "sympy_exp": "34.3904238634422*x + 64.5438860922815*z",
+        "latex_expression": "34.3904238634422 x + 64.5438860922815 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 34.3904238634422*x + 64.5438860922815*z"
+    },
+    {
+        "sympy_exp": "99.3740549669868*z",
+        "latex_expression": "99.3740549669868 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 99.3740549669868*z"
+    },
+    {
+        "sympy_exp": "42.0211230283491*x + 46.1342771402366*z",
+        "latex_expression": "42.0211230283491 x + 46.1342771402366 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 42.0211230283491*x + 46.1342771402366*z"
+    },
+    {
+        "sympy_exp": "52.7101546077216*x + 18.4863328590821*y + 2.51559465864558*z",
+        "latex_expression": "52.7101546077216 x + 18.4863328590821 y + 2.51559465864558 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 52.7101546077216*x + 18.4863328590821*y + 2.51559465864558*z"
+    },
+    {
+        "sympy_exp": "92.6484621606257*x + 13.1598077879688*y + 47.7223487812012*z",
+        "latex_expression": "92.6484621606257 x + 13.1598077879688 y + 47.7223487812012 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 92.6484621606257*x + 13.1598077879688*y + 47.7223487812012*z"
+    },
+    {
+        "sympy_exp": "30.2135604476801*x + 31.2799332319198*y + 89.267059556495*z",
+        "latex_expression": "30.2135604476801 x + 31.2799332319198 y + 89.267059556495 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 30.2135604476801*x + 31.2799332319198*y + 89.267059556495*z"
+    },
+    {
+        "sympy_exp": "51.6808484314083*x + 62.587956333431*y + 56.1954349856508*z",
+        "latex_expression": "51.6808484314083 x + 62.587956333431 y + 56.1954349856508 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 51.6808484314083*x + 62.587956333431*y + 56.1954349856508*z"
+    },
+    {
+        "sympy_exp": "11.9651203664818*x + 42.016014499501*y + 91.6964349439128*z",
+        "latex_expression": "11.9651203664818 x + 42.016014499501 y + 91.6964349439128 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 11.9651203664818*x + 42.016014499501*y + 91.6964349439128*z"
+    },
+    {
+        "sympy_exp": "26.5033123929178*x + 85.4505551041449*y + 32.929110414151*z",
+        "latex_expression": "26.5033123929178 x + 85.4505551041449 y + 32.929110414151 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 26.5033123929178*x + 85.4505551041449*y + 32.929110414151*z"
+    },
+    {
+        "sympy_exp": "10.0163550699894*x",
+        "latex_expression": "10.0163550699894 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 10.0163550699894*x"
+    },
+    {
+        "sympy_exp": "30.1117656289856*x",
+        "latex_expression": "30.1117656289856 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 30.1117656289856*x"
+    },
+    {
+        "sympy_exp": "34.4808476321615*x + 22.0051694654585*y",
+        "latex_expression": "34.4808476321615 x + 22.0051694654585 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 34.4808476321615*x + 22.0051694654585*y"
+    },
+    {
+        "sympy_exp": "87.2386656490094*x + 54.6341378581092*y + 86.6103710958546*z",
+        "latex_expression": "87.2386656490094 x + 54.6341378581092 y + 86.6103710958546 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 87.2386656490094*x + 54.6341378581092*y + 86.6103710958546*z"
+    },
+    {
+        "sympy_exp": "34.325523868688*z",
+        "latex_expression": "34.325523868688 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 34.325523868688*z"
+    },
+    {
+        "sympy_exp": "1.66279745351087*y + 98.6713615720233*z",
+        "latex_expression": "1.66279745351087 y + 98.6713615720233 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 1.66279745351087*y + 98.6713615720233*z"
+    },
+    {
+        "sympy_exp": "97.0803424121164*x + 1.69524821225816*z",
+        "latex_expression": "97.0803424121164 x + 1.69524821225816 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 97.0803424121164*x + 1.69524821225816*z"
+    },
+    {
+        "sympy_exp": "30.1740460696511*x + 64.1135821224674*y + 17.1367323599978*z",
+        "latex_expression": "30.1740460696511 x + 64.1135821224674 y + 17.1367323599978 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 30.1740460696511*x + 64.1135821224674*y + 17.1367323599978*z"
+    },
+    {
+        "sympy_exp": "69.5506741375404*y",
+        "latex_expression": "69.5506741375404 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 69.5506741375404*y"
+    },
+    {
+        "sympy_exp": "64.1190322053398*y",
+        "latex_expression": "64.1190322053398 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 64.1190322053398*y"
+    },
+    {
+        "sympy_exp": "11.0844410875745*x + 57.6244534766264*y + 62.0150977860938*z",
+        "latex_expression": "11.0844410875745 x + 57.6244534766264 y + 62.0150977860938 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 11.0844410875745*x + 57.6244534766264*y + 62.0150977860938*z"
+    },
+    {
+        "sympy_exp": "33.822415619548*x + 75.9214497842966*z",
+        "latex_expression": "33.822415619548 x + 75.9214497842966 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 33.822415619548*x + 75.9214497842966*z"
+    },
+    {
+        "sympy_exp": "76.3878561489902*x + 55.3642960810368*y + 55.9675539055932*z",
+        "latex_expression": "76.3878561489902 x + 55.3642960810368 y + 55.9675539055932 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 76.3878561489902*x + 55.3642960810368*y + 55.9675539055932*z"
+    },
+    {
+        "sympy_exp": "9.42833928983838*x",
+        "latex_expression": "9.42833928983838 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 9.42833928983838*x"
+    },
+    {
+        "sympy_exp": "5.21931711145221*x + 32.3608543744806*y + 88.3150167725092*z",
+        "latex_expression": "5.21931711145221 x + 32.3608543744806 y + 88.3150167725092 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 5.21931711145221*x + 32.3608543744806*y + 88.3150167725092*z"
+    },
+    {
+        "sympy_exp": "1.75602347503919*x + 35.1082658693154*y + 5.8623412077509*z",
+        "latex_expression": "1.75602347503919 x + 35.1082658693154 y + 5.8623412077509 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 1.75602347503919*x + 35.1082658693154*y + 5.8623412077509*z"
+    },
+    {
+        "sympy_exp": "25.1798485032099*y + 31.9227680313674*z",
+        "latex_expression": "25.1798485032099 y + 31.9227680313674 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 25.1798485032099*y + 31.9227680313674*z"
+    },
+    {
+        "sympy_exp": "26.8179414940717*x + 7.08203129945538*z",
+        "latex_expression": "26.8179414940717 x + 7.08203129945538 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 26.8179414940717*x + 7.08203129945538*z"
+    },
+    {
+        "sympy_exp": "83.1997649712795*x + 51.2908305770696*y + 62.1753222783025*z",
+        "latex_expression": "83.1997649712795 x + 51.2908305770696 y + 62.1753222783025 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 83.1997649712795*x + 51.2908305770696*y + 62.1753222783025*z"
+    },
+    {
+        "sympy_exp": "9.74840081497255*x + 76.478729396043*y + 49.0516036175016*z",
+        "latex_expression": "9.74840081497255 x + 76.478729396043 y + 49.0516036175016 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 9.74840081497255*x + 76.478729396043*y + 49.0516036175016*z"
+    },
+    {
+        "sympy_exp": "97.8021821867769*x",
+        "latex_expression": "97.8021821867769 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 97.8021821867769*x"
+    },
+    {
+        "sympy_exp": "56.4198885830642*x + 6.66728334837116*y",
+        "latex_expression": "56.4198885830642 x + 6.66728334837116 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 56.4198885830642*x + 6.66728334837116*y"
+    },
+    {
+        "sympy_exp": "71.0931421871032*y + 44.1409829052799*z",
+        "latex_expression": "71.0931421871032 y + 44.1409829052799 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 71.0931421871032*y + 44.1409829052799*z"
+    },
+    {
+        "sympy_exp": "7.2618765249872*x + 56.4519393284436*y",
+        "latex_expression": "7.2618765249872 x + 56.4519393284436 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 7.2618765249872*x + 56.4519393284436*y"
+    },
+    {
+        "sympy_exp": "21.5317310070137*x + 30.9333911623441*y",
+        "latex_expression": "21.5317310070137 x + 30.9333911623441 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 21.5317310070137*x + 30.9333911623441*y"
+    },
+    {
+        "sympy_exp": "47.2008600910427*x + 1.42829434953021*y + 95.3947070643602*z",
+        "latex_expression": "47.2008600910427 x + 1.42829434953021 y + 95.3947070643602 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 47.2008600910427*x + 1.42829434953021*y + 95.3947070643602*z"
+    },
+    {
+        "sympy_exp": "1.88662332904412*x + 73.7553168117515*y + 56.585759608241*z",
+        "latex_expression": "1.88662332904412 x + 73.7553168117515 y + 56.585759608241 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 1.88662332904412*x + 73.7553168117515*y + 56.585759608241*z"
+    },
+    {
+        "sympy_exp": "31.3270418567397*x + 16.2651473484711*z",
+        "latex_expression": "31.3270418567397 x + 16.2651473484711 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 31.3270418567397*x + 16.2651473484711*z"
+    },
+    {
+        "sympy_exp": "45.0174008830262*x",
+        "latex_expression": "45.0174008830262 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 45.0174008830262*x"
+    },
+    {
+        "sympy_exp": "58.459704140586*y",
+        "latex_expression": "58.459704140586 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 58.459704140586*y"
+    },
+    {
+        "sympy_exp": "28.1770222362683*x + 41.4549727422593*y + 47.5112370254213*z",
+        "latex_expression": "28.1770222362683 x + 41.4549727422593 y + 47.5112370254213 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 28.1770222362683*x + 41.4549727422593*y + 47.5112370254213*z"
+    },
+    {
+        "sympy_exp": "53.6595799801935*x + 42.1377084324744*y + 40.1739747406166*z",
+        "latex_expression": "53.6595799801935 x + 42.1377084324744 y + 40.1739747406166 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 53.6595799801935*x + 42.1377084324744*y + 40.1739747406166*z"
+    },
+    {
+        "sympy_exp": "72.9781335326882*x + 29.381785422285*y + 68.6137247289753*z",
+        "latex_expression": "72.9781335326882 x + 29.381785422285 y + 68.6137247289753 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 72.9781335326882*x + 29.381785422285*y + 68.6137247289753*z"
+    },
+    {
+        "sympy_exp": "68.9312269357741*x",
+        "latex_expression": "68.9312269357741 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 68.9312269357741*x"
+    },
+    {
+        "sympy_exp": "22.2374839084232*y + 28.488153130933*z",
+        "latex_expression": "22.2374839084232 y + 28.488153130933 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 22.2374839084232*y + 28.488153130933*z"
+    },
+    {
+        "sympy_exp": "9.93609563691401*x + 6.94924097068738*z",
+        "latex_expression": "9.93609563691401 x + 6.94924097068738 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 9.93609563691401*x + 6.94924097068738*z"
+    },
+    {
+        "sympy_exp": "92.5381647380881*x",
+        "latex_expression": "92.5381647380881 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 92.5381647380881*x"
+    },
+    {
+        "sympy_exp": "53.5887442549691*x + 59.4532774066302*y",
+        "latex_expression": "53.5887442549691 x + 59.4532774066302 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 53.5887442549691*x + 59.4532774066302*y"
+    },
+    {
+        "sympy_exp": "50.274627881176*x + 51.9021160512623*z",
+        "latex_expression": "50.274627881176 x + 51.9021160512623 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 50.274627881176*x + 51.9021160512623*z"
+    },
+    {
+        "sympy_exp": "12.9558100422153*z",
+        "latex_expression": "12.9558100422153 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 12.9558100422153*z"
+    },
+    {
+        "sympy_exp": "96.2940251803587*x + 14.8148519982157*y + 47.7042592338296*z",
+        "latex_expression": "96.2940251803587 x + 14.8148519982157 y + 47.7042592338296 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 96.2940251803587*x + 14.8148519982157*y + 47.7042592338296*z"
+    },
+    {
+        "sympy_exp": "63.7753886671062*x",
+        "latex_expression": "63.7753886671062 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 63.7753886671062*x"
+    },
+    {
+        "sympy_exp": "49.2999705914334*x + 44.0335394465058*y + 84.6392724207677*z",
+        "latex_expression": "49.2999705914334 x + 44.0335394465058 y + 84.6392724207677 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 49.2999705914334*x + 44.0335394465058*y + 84.6392724207677*z"
+    },
+    {
+        "sympy_exp": "95.1396954058484*z",
+        "latex_expression": "95.1396954058484 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 95.1396954058484*z"
+    },
+    {
+        "sympy_exp": "4.24940786131532*x + 23.7305477072559*y + 96.1371167375933*z",
+        "latex_expression": "4.24940786131532 x + 23.7305477072559 y + 96.1371167375933 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 4.24940786131532*x + 23.7305477072559*y + 96.1371167375933*z"
+    },
+    {
+        "sympy_exp": "31.8643321877393*x + 39.4615124849366*y",
+        "latex_expression": "31.8643321877393 x + 39.4615124849366 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 31.8643321877393*x + 39.4615124849366*y"
+    },
+    {
+        "sympy_exp": "84.1196059855583*y",
+        "latex_expression": "84.1196059855583 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 84.1196059855583*y"
+    },
+    {
+        "sympy_exp": "63.0949720745493*x + 8.93092671973313*y",
+        "latex_expression": "63.0949720745493 x + 8.93092671973313 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 63.0949720745493*x + 8.93092671973313*y"
+    },
+    {
+        "sympy_exp": "56.8045178262079*x",
+        "latex_expression": "56.8045178262079 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 56.8045178262079*x"
+    },
+    {
+        "sympy_exp": "99.132861964212*x + 95.3163356944429*y + 86.111212710619*z",
+        "latex_expression": "99.132861964212 x + 95.3163356944429 y + 86.111212710619 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 99.132861964212*x + 95.3163356944429*y + 86.111212710619*z"
+    },
+    {
+        "sympy_exp": "56.052248719253*x + 91.7503998156856*y + 99.1053755143745*z",
+        "latex_expression": "56.052248719253 x + 91.7503998156856 y + 99.1053755143745 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 56.052248719253*x + 91.7503998156856*y + 99.1053755143745*z"
+    },
+    {
+        "sympy_exp": "58.7523185358547*x + 28.3165929161165*y + 98.6513785377501*z",
+        "latex_expression": "58.7523185358547 x + 28.3165929161165 y + 98.6513785377501 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 58.7523185358547*x + 28.3165929161165*y + 98.6513785377501*z"
+    },
+    {
+        "sympy_exp": "21.6852558126726*x",
+        "latex_expression": "21.6852558126726 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 21.6852558126726*x"
+    },
+    {
+        "sympy_exp": "14.2395339705527*x + 89.4554938795825*y + 14.4492525254391*z",
+        "latex_expression": "14.2395339705527 x + 89.4554938795825 y + 14.4492525254391 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 14.2395339705527*x + 89.4554938795825*y + 14.4492525254391*z"
+    },
+    {
+        "sympy_exp": "49.3615142070892*y",
+        "latex_expression": "49.3615142070892 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 49.3615142070892*y"
+    },
+    {
+        "sympy_exp": "51.3334206924199*x + 58.4391400574234*y",
+        "latex_expression": "51.3334206924199 x + 58.4391400574234 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 51.3334206924199*x + 58.4391400574234*y"
+    },
+    {
+        "sympy_exp": "32.4753259450399*y",
+        "latex_expression": "32.4753259450399 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 32.4753259450399*y"
+    },
+    {
+        "sympy_exp": "72.1109280240211*z",
+        "latex_expression": "72.1109280240211 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 72.1109280240211*z"
+    },
+    {
+        "sympy_exp": "90.1238378907913*x + 89.7282812373342*z",
+        "latex_expression": "90.1238378907913 x + 89.7282812373342 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 90.1238378907913*x + 89.7282812373342*z"
+    },
+    {
+        "sympy_exp": "40.3673890908037*x + 68.9443190809542*z",
+        "latex_expression": "40.3673890908037 x + 68.9443190809542 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 40.3673890908037*x + 68.9443190809542*z"
+    },
+    {
+        "sympy_exp": "33.9993121196966*x + 26.171016002687*y",
+        "latex_expression": "33.9993121196966 x + 26.171016002687 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 33.9993121196966*x + 26.171016002687*y"
+    },
+    {
+        "sympy_exp": "1.88231320962822*y + 56.0900909875642*z",
+        "latex_expression": "1.88231320962822 y + 56.0900909875642 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 1.88231320962822*y + 56.0900909875642*z"
+    },
+    {
+        "sympy_exp": "74.236595690291*x + 84.4513432725749*y + 97.8442118357474*z",
+        "latex_expression": "74.236595690291 x + 84.4513432725749 y + 97.8442118357474 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 74.236595690291*x + 84.4513432725749*y + 97.8442118357474*z"
+    },
+    {
+        "sympy_exp": "82.8762480610775*x + 5.23338335862566*y + 98.6382360456594*z",
+        "latex_expression": "82.8762480610775 x + 5.23338335862566 y + 98.6382360456594 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 82.8762480610775*x + 5.23338335862566*y + 98.6382360456594*z"
+    },
+    {
+        "sympy_exp": "69.7797258121832*y + 94.9035108784844*z",
+        "latex_expression": "69.7797258121832 y + 94.9035108784844 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 69.7797258121832*y + 94.9035108784844*z"
+    },
+    {
+        "sympy_exp": "55.3994339156565*y + 18.7735800234114*z",
+        "latex_expression": "55.3994339156565 y + 18.7735800234114 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 55.3994339156565*y + 18.7735800234114*z"
+    },
+    {
+        "sympy_exp": "95.9692309277782*x",
+        "latex_expression": "95.9692309277782 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 95.9692309277782*x"
+    },
+    {
+        "sympy_exp": "61.2476183131533*x + 54.8719520418361*y",
+        "latex_expression": "61.2476183131533 x + 54.8719520418361 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 61.2476183131533*x + 54.8719520418361*y"
+    },
+    {
+        "sympy_exp": "62.6263012653886*x + 77.3382579414861*y + 94.8273162095463*z",
+        "latex_expression": "62.6263012653886 x + 77.3382579414861 y + 94.8273162095463 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 62.6263012653886*x + 77.3382579414861*y + 94.8273162095463*z"
+    },
+    {
+        "sympy_exp": "87.3821329646437*y + 72.0740400958306*z",
+        "latex_expression": "87.3821329646437 y + 72.0740400958306 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 87.3821329646437*y + 72.0740400958306*z"
+    },
+    {
+        "sympy_exp": "30.5768720465465*z",
+        "latex_expression": "30.5768720465465 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 30.5768720465465*z"
+    },
+    {
+        "sympy_exp": "36.3954448983454*x + 73.1593666353494*y + 43.0827746948962*z",
+        "latex_expression": "36.3954448983454 x + 73.1593666353494 y + 43.0827746948962 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 36.3954448983454*x + 73.1593666353494*y + 43.0827746948962*z"
+    },
+    {
+        "sympy_exp": "48.1049455404551*x + 51.2189679025899*y",
+        "latex_expression": "48.1049455404551 x + 51.2189679025899 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 48.1049455404551*x + 51.2189679025899*y"
+    },
+    {
+        "sympy_exp": "88.3268469702648*y + 43.8792568607886*z",
+        "latex_expression": "88.3268469702648 y + 43.8792568607886 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 88.3268469702648*y + 43.8792568607886*z"
+    },
+    {
+        "sympy_exp": "99.304866794948*x + 63.3061439261438*y + 65.2512856342976*z",
+        "latex_expression": "99.304866794948 x + 63.3061439261438 y + 65.2512856342976 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 99.304866794948*x + 63.3061439261438*y + 65.2512856342976*z"
+    },
+    {
+        "sympy_exp": "84.3754369242214*x + 8.2005492052497*y + 6.33970301670652*z",
+        "latex_expression": "84.3754369242214 x + 8.2005492052497 y + 6.33970301670652 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 84.3754369242214*x + 8.2005492052497*y + 6.33970301670652*z"
+    },
+    {
+        "sympy_exp": "91.0156080458664*x + 38.6444889377098*y",
+        "latex_expression": "91.0156080458664 x + 38.6444889377098 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 91.0156080458664*x + 38.6444889377098*y"
+    },
+    {
+        "sympy_exp": "17.5786013833721*y + 73.9784819954234*z",
+        "latex_expression": "17.5786013833721 y + 73.9784819954234 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 17.5786013833721*y + 73.9784819954234*z"
+    },
+    {
+        "sympy_exp": "23.7706781908975*x + 97.3388805450236*y + 16.8746960522891*z",
+        "latex_expression": "23.7706781908975 x + 97.3388805450236 y + 16.8746960522891 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 23.7706781908975*x + 97.3388805450236*y + 16.8746960522891*z"
+    },
+    {
+        "sympy_exp": "96.2569678854541*x + 84.1549394417711*y + 2.19342911604054*z",
+        "latex_expression": "96.2569678854541 x + 84.1549394417711 y + 2.19342911604054 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 96.2569678854541*x + 84.1549394417711*y + 2.19342911604054*z"
+    },
+    {
+        "sympy_exp": "3.32879864209511*y + 39.5783720322178*z",
+        "latex_expression": "3.32879864209511 y + 39.5783720322178 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 3.32879864209511*y + 39.5783720322178*z"
+    },
+    {
+        "sympy_exp": "54.9864004296424*z",
+        "latex_expression": "54.9864004296424 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 54.9864004296424*z"
+    },
+    {
+        "sympy_exp": "53.9403672082001*x + 49.5446771745626*y + 75.4493414260373*z",
+        "latex_expression": "53.9403672082001 x + 49.5446771745626 y + 75.4493414260373 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 53.9403672082001*x + 49.5446771745626*y + 75.4493414260373*z"
+    },
+    {
+        "sympy_exp": "54.5414179402623*x + 85.5228161116739*z",
+        "latex_expression": "54.5414179402623 x + 85.5228161116739 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 54.5414179402623*x + 85.5228161116739*z"
+    },
+    {
+        "sympy_exp": "29.4914594957688*x",
+        "latex_expression": "29.4914594957688 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 29.4914594957688*x"
+    },
+    {
+        "sympy_exp": "70.3840606144924*x + 75.6409444640506*z",
+        "latex_expression": "70.3840606144924 x + 75.6409444640506 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 70.3840606144924*x + 75.6409444640506*z"
+    },
+    {
+        "sympy_exp": "53.1494762000832*x + 90.5038304487458*y + 23.4589264822742*z",
+        "latex_expression": "53.1494762000832 x + 90.5038304487458 y + 23.4589264822742 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 53.1494762000832*x + 90.5038304487458*y + 23.4589264822742*z"
+    },
+    {
+        "sympy_exp": "50.8634819753207*z",
+        "latex_expression": "50.8634819753207 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 50.8634819753207*z"
+    },
+    {
+        "sympy_exp": "91.0243872646362*x + 74.9518678221543*y + 67.3897804049554*z",
+        "latex_expression": "91.0243872646362 x + 74.9518678221543 y + 67.3897804049554 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 91.0243872646362*x + 74.9518678221543*y + 67.3897804049554*z"
+    },
+    {
+        "sympy_exp": "52.9801575347688*x + 42.6817482916866*y + 69.2319737771025*z",
+        "latex_expression": "52.9801575347688 x + 42.6817482916866 y + 69.2319737771025 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 52.9801575347688*x + 42.6817482916866*y + 69.2319737771025*z"
+    },
+    {
+        "sympy_exp": "47.1279770407892*y + 96.2027678811647*z",
+        "latex_expression": "47.1279770407892 y + 96.2027678811647 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 47.1279770407892*y + 96.2027678811647*z"
+    },
+    {
+        "sympy_exp": "90.6956954922134*x + 53.2033367586313*z",
+        "latex_expression": "90.6956954922134 x + 53.2033367586313 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 90.6956954922134*x + 53.2033367586313*z"
+    },
+    {
+        "sympy_exp": "29.9588079815523*x",
+        "latex_expression": "29.9588079815523 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 29.9588079815523*x"
+    },
+    {
+        "sympy_exp": "43.4655589592707*x + 38.943505737667*y",
+        "latex_expression": "43.4655589592707 x + 38.943505737667 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 43.4655589592707*x + 38.943505737667*y"
+    },
+    {
+        "sympy_exp": "49.5047415869709*y",
+        "latex_expression": "49.5047415869709 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 49.5047415869709*y"
+    },
+    {
+        "sympy_exp": "89.854852562654*x + 82.7341205347316*z",
+        "latex_expression": "89.854852562654 x + 82.7341205347316 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 89.854852562654*x + 82.7341205347316*z"
+    },
+    {
+        "sympy_exp": "19.4255235478409*x",
+        "latex_expression": "19.4255235478409 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 19.4255235478409*x"
+    },
+    {
+        "sympy_exp": "6.35633007190604*z",
+        "latex_expression": "6.35633007190604 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 6.35633007190604*z"
+    },
+    {
+        "sympy_exp": "94.5367946214121*z",
+        "latex_expression": "94.5367946214121 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 94.5367946214121*z"
+    },
+    {
+        "sympy_exp": "55.3218731959089*x + 18.8963410560995*y + 37.8207847029537*z",
+        "latex_expression": "55.3218731959089 x + 18.8963410560995 y + 37.8207847029537 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 55.3218731959089*x + 18.8963410560995*y + 37.8207847029537*z"
+    },
+    {
+        "sympy_exp": "37.574341225498*z",
+        "latex_expression": "37.574341225498 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 37.574341225498*z"
+    },
+    {
+        "sympy_exp": "51.3054361057424*y + 85.3943357269796*z",
+        "latex_expression": "51.3054361057424 y + 85.3943357269796 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 51.3054361057424*y + 85.3943357269796*z"
+    },
+    {
+        "sympy_exp": "85.9232776456591*z",
+        "latex_expression": "85.9232776456591 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 85.9232776456591*z"
+    },
+    {
+        "sympy_exp": "42.559128878053*y + 29.193968726059*z",
+        "latex_expression": "42.559128878053 y + 29.193968726059 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 42.559128878053*y + 29.193968726059*z"
+    },
+    {
+        "sympy_exp": "80.4557809568437*x + 67.5931420713838*z",
+        "latex_expression": "80.4557809568437 x + 67.5931420713838 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 80.4557809568437*x + 67.5931420713838*z"
+    },
+    {
+        "sympy_exp": "60.8063586999883*x + 83.3209562542608*y + 43.589976319714*z",
+        "latex_expression": "60.8063586999883 x + 83.3209562542608 y + 43.589976319714 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 60.8063586999883*x + 83.3209562542608*y + 43.589976319714*z"
+    },
+    {
+        "sympy_exp": "68.8981250403767*y",
+        "latex_expression": "68.8981250403767 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 68.8981250403767*y"
+    },
+    {
+        "sympy_exp": "94.1701374933969*x + 45.0181957407696*y + 27.2318157908839*z",
+        "latex_expression": "94.1701374933969 x + 45.0181957407696 y + 27.2318157908839 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 94.1701374933969*x + 45.0181957407696*y + 27.2318157908839*z"
+    },
+    {
+        "sympy_exp": "47.4723389008761*x",
+        "latex_expression": "47.4723389008761 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 47.4723389008761*x"
+    },
+    {
+        "sympy_exp": "98.0940183770288*y + 54.9328319589578*z",
+        "latex_expression": "98.0940183770288 y + 54.9328319589578 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 98.0940183770288*y + 54.9328319589578*z"
+    },
+    {
+        "sympy_exp": "47.4866398854055*x + 89.8842464796973*y + 96.6749258166948*z",
+        "latex_expression": "47.4866398854055 x + 89.8842464796973 y + 96.6749258166948 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 47.4866398854055*x + 89.8842464796973*y + 96.6749258166948*z"
+    },
+    {
+        "sympy_exp": "53.1373240719434*x",
+        "latex_expression": "53.1373240719434 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 53.1373240719434*x"
+    },
+    {
+        "sympy_exp": "9.36969121570296*y",
+        "latex_expression": "9.36969121570296 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 9.36969121570296*y"
+    },
+    {
+        "sympy_exp": "54.240452647773*x + 89.3494263824801*y",
+        "latex_expression": "54.240452647773 x + 89.3494263824801 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 54.240452647773*x + 89.3494263824801*y"
+    },
+    {
+        "sympy_exp": "36.9137570332575*z",
+        "latex_expression": "36.9137570332575 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 36.9137570332575*z"
+    },
+    {
+        "sympy_exp": "90.6544931968868*x",
+        "latex_expression": "90.6544931968868 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 90.6544931968868*x"
+    },
+    {
+        "sympy_exp": "62.2604844615573*x",
+        "latex_expression": "62.2604844615573 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 62.2604844615573*x"
+    },
+    {
+        "sympy_exp": "59.1403952370975*x + 22.6497914036668*y",
+        "latex_expression": "59.1403952370975 x + 22.6497914036668 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 59.1403952370975*x + 22.6497914036668*y"
+    },
+    {
+        "sympy_exp": "65.9299530170237*z",
+        "latex_expression": "65.9299530170237 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 65.9299530170237*z"
+    },
+    {
+        "sympy_exp": "96.4105140874772*x + 36.1510953178995*z",
+        "latex_expression": "96.4105140874772 x + 36.1510953178995 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 96.4105140874772*x + 36.1510953178995*z"
+    },
+    {
+        "sympy_exp": "37.2455285055593*y",
+        "latex_expression": "37.2455285055593 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 37.2455285055593*y"
+    },
+    {
+        "sympy_exp": "11.0489405318782*x + 81.4729379714019*y + 32.3777686757719*z",
+        "latex_expression": "11.0489405318782 x + 81.4729379714019 y + 32.3777686757719 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 11.0489405318782*x + 81.4729379714019*y + 32.3777686757719*z"
+    },
+    {
+        "sympy_exp": "51.2132036751392*z",
+        "latex_expression": "51.2132036751392 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 51.2132036751392*z"
+    },
+    {
+        "sympy_exp": "30.7549050283683*x + 64.9995889355352*y + 11.7095208663146*z",
+        "latex_expression": "30.7549050283683 x + 64.9995889355352 y + 11.7095208663146 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 30.7549050283683*x + 64.9995889355352*y + 11.7095208663146*z"
+    },
+    {
+        "sympy_exp": "90.3456768770909*x + 47.9025489503132*y + 46.864605860031*z",
+        "latex_expression": "90.3456768770909 x + 47.9025489503132 y + 46.864605860031 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 90.3456768770909*x + 47.9025489503132*y + 46.864605860031*z"
+    },
+    {
+        "sympy_exp": "59.6763905832031*x + 83.8415000930538*y + 40.8395410474002*z",
+        "latex_expression": "59.6763905832031 x + 83.8415000930538 y + 40.8395410474002 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 59.6763905832031*x + 83.8415000930538*y + 40.8395410474002*z"
+    },
+    {
+        "sympy_exp": "33.4700727895401*x",
+        "latex_expression": "33.4700727895401 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 33.4700727895401*x"
+    },
+    {
+        "sympy_exp": "71.9148922295082*x + 43.9861156580569*y",
+        "latex_expression": "71.9148922295082 x + 43.9861156580569 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 71.9148922295082*x + 43.9861156580569*y"
+    },
+    {
+        "sympy_exp": "38.1824530789674*x + 62.1016626525773*y + 90.155877885869*z",
+        "latex_expression": "38.1824530789674 x + 62.1016626525773 y + 90.155877885869 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 38.1824530789674*x + 62.1016626525773*y + 90.155877885869*z"
+    },
+    {
+        "sympy_exp": "47.7751733141801*y",
+        "latex_expression": "47.7751733141801 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 47.7751733141801*y"
+    },
+    {
+        "sympy_exp": "40.8282138849254*y",
+        "latex_expression": "40.8282138849254 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 40.8282138849254*y"
+    },
+    {
+        "sympy_exp": "54.8133524270721*x + 55.7992734226368*y + 22.7110109983295*z",
+        "latex_expression": "54.8133524270721 x + 55.7992734226368 y + 22.7110109983295 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 54.8133524270721*x + 55.7992734226368*y + 22.7110109983295*z"
+    },
+    {
+        "sympy_exp": "68.8498512872294*x + 79.9885192755954*y + 39.2593112126219*z",
+        "latex_expression": "68.8498512872294 x + 79.9885192755954 y + 39.2593112126219 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 68.8498512872294*x + 79.9885192755954*y + 39.2593112126219*z"
+    },
+    {
+        "sympy_exp": "80.8051854784153*x + 53.5396601714125*z",
+        "latex_expression": "80.8051854784153 x + 53.5396601714125 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 80.8051854784153*x + 53.5396601714125*z"
+    },
+    {
+        "sympy_exp": "93.8400308817458*x + 18.2338099943833*y",
+        "latex_expression": "93.8400308817458 x + 18.2338099943833 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 93.8400308817458*x + 18.2338099943833*y"
+    },
+    {
+        "sympy_exp": "63.2597996540195*x + 32.3665999392969*y + 13.4804092439673*z",
+        "latex_expression": "63.2597996540195 x + 32.3665999392969 y + 13.4804092439673 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 63.2597996540195*x + 32.3665999392969*y + 13.4804092439673*z"
+    },
+    {
+        "sympy_exp": "19.2564427248447*x + 14.7081200944358*y + 90.5725197130068*z",
+        "latex_expression": "19.2564427248447 x + 14.7081200944358 y + 90.5725197130068 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 19.2564427248447*x + 14.7081200944358*y + 90.5725197130068*z"
+    },
+    {
+        "sympy_exp": "56.5210008628797*x + 46.4597020483262*z",
+        "latex_expression": "56.5210008628797 x + 46.4597020483262 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 56.5210008628797*x + 46.4597020483262*z"
+    },
+    {
+        "sympy_exp": "59.1946171217161*x + 74.8308217197764*y + 33.1178654717681*z",
+        "latex_expression": "59.1946171217161 x + 74.8308217197764 y + 33.1178654717681 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 59.1946171217161*x + 74.8308217197764*y + 33.1178654717681*z"
+    },
+    {
+        "sympy_exp": "7.80044133612828*x + 98.7863339075556*z",
+        "latex_expression": "7.80044133612828 x + 98.7863339075556 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 7.80044133612828*x + 98.7863339075556*z"
+    },
+    {
+        "sympy_exp": "65.3937901624008*x + 44.5448043796336*z",
+        "latex_expression": "65.3937901624008 x + 44.5448043796336 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 65.3937901624008*x + 44.5448043796336*z"
+    },
+    {
+        "sympy_exp": "18.9046100939754*y + 91.085911183134*z",
+        "latex_expression": "18.9046100939754 y + 91.085911183134 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 18.9046100939754*y + 91.085911183134*z"
+    },
+    {
+        "sympy_exp": "30.5267706195746*y",
+        "latex_expression": "30.5267706195746 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 30.5267706195746*y"
+    },
+    {
+        "sympy_exp": "18.3160994502322*x + 89.4843055040554*y + 94.31901178889*z",
+        "latex_expression": "18.3160994502322 x + 89.4843055040554 y + 94.31901178889 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 18.3160994502322*x + 89.4843055040554*y + 94.31901178889*z"
+    },
+    {
+        "sympy_exp": "79.8710554679345*x + 42.0306365607359*y",
+        "latex_expression": "79.8710554679345 x + 42.0306365607359 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 79.8710554679345*x + 42.0306365607359*y"
+    },
+    {
+        "sympy_exp": "2.50448342584404*y",
+        "latex_expression": "2.50448342584404 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 2.50448342584404*y"
+    },
+    {
+        "sympy_exp": "76.9004668305094*x + 5.39947875206829*y + 89.2945626859777*z",
+        "latex_expression": "76.9004668305094 x + 5.39947875206829 y + 89.2945626859777 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 76.9004668305094*x + 5.39947875206829*y + 89.2945626859777*z"
+    },
+    {
+        "sympy_exp": "74.214657358951*x + 10.3168688917072*y + 8.85086145198218*z",
+        "latex_expression": "74.214657358951 x + 10.3168688917072 y + 8.85086145198218 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 74.214657358951*x + 10.3168688917072*y + 8.85086145198218*z"
+    },
+    {
+        "sympy_exp": "36.2722387912842*x + 99.8528322339385*y + 17.0940582171408*z",
+        "latex_expression": "36.2722387912842 x + 99.8528322339385 y + 17.0940582171408 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 36.2722387912842*x + 99.8528322339385*y + 17.0940582171408*z"
+    },
+    {
+        "sympy_exp": "65.5532268919068*x",
+        "latex_expression": "65.5532268919068 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 65.5532268919068*x"
+    },
+    {
+        "sympy_exp": "37.6320716514127*y",
+        "latex_expression": "37.6320716514127 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 37.6320716514127*y"
+    },
+    {
+        "sympy_exp": "77.2989697320076*x + 39.145474117072*y",
+        "latex_expression": "77.2989697320076 x + 39.145474117072 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 77.2989697320076*x + 39.145474117072*y"
+    },
+    {
+        "sympy_exp": "66.6231969105946*x + 94.4706810398435*y + 47.3957755312646*z",
+        "latex_expression": "66.6231969105946 x + 94.4706810398435 y + 47.3957755312646 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 66.6231969105946*x + 94.4706810398435*y + 47.3957755312646*z"
+    },
+    {
+        "sympy_exp": "60.2291168589065*x",
+        "latex_expression": "60.2291168589065 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 60.2291168589065*x"
+    },
+    {
+        "sympy_exp": "51.7837952000081*x + 93.3947993184998*y",
+        "latex_expression": "51.7837952000081 x + 93.3947993184998 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 51.7837952000081*x + 93.3947993184998*y"
+    },
+    {
+        "sympy_exp": "53.6944201093371*x + 73.278810684844*y + 4.03564008204684*z",
+        "latex_expression": "53.6944201093371 x + 73.278810684844 y + 4.03564008204684 z",
+        "solution": "import numpy as np\ndef generated_function(y, x, z):\n    return 53.6944201093371*x + 73.278810684844*y + 4.03564008204684*z"
+    },
+    {
+        "sympy_exp": "93.8638571072931*x + 69.933480892522*y",
+        "latex_expression": "93.8638571072931 x + 69.933480892522 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 93.8638571072931*x + 69.933480892522*y"
+    },
+    {
+        "sympy_exp": "47.8058530411037*y",
+        "latex_expression": "47.8058530411037 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 47.8058530411037*y"
+    },
+    {
+        "sympy_exp": "58.6921738431379*z",
+        "latex_expression": "58.6921738431379 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 58.6921738431379*z"
+    },
+    {
+        "sympy_exp": "45.5081096669978*x + 47.8871988656057*y",
+        "latex_expression": "45.5081096669978 x + 47.8871988656057 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 45.5081096669978*x + 47.8871988656057*y"
+    },
+    {
+        "sympy_exp": "99.8982561295158*y + 34.8404869052653*z",
+        "latex_expression": "99.8982561295158 y + 34.8404869052653 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 99.8982561295158*y + 34.8404869052653*z"
+    },
+    {
+        "sympy_exp": "99.3018261342267*x + 22.5638135753518*z",
+        "latex_expression": "99.3018261342267 x + 22.5638135753518 z",
+        "solution": "import numpy as np\ndef generated_function(z, x):\n    return 99.3018261342267*x + 22.5638135753518*z"
+    },
+    {
+        "sympy_exp": "30.2448832240387*z",
+        "latex_expression": "30.2448832240387 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 30.2448832240387*z"
+    },
+    {
+        "sympy_exp": "6.12529787062599*x + 34.7619648771486*y",
+        "latex_expression": "6.12529787062599 x + 34.7619648771486 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 6.12529787062599*x + 34.7619648771486*y"
+    },
+    {
+        "sympy_exp": "65.2287706420275*z",
+        "latex_expression": "65.2287706420275 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 65.2287706420275*z"
+    },
+    {
+        "sympy_exp": "94.9913098012496*x",
+        "latex_expression": "94.9913098012496 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 94.9913098012496*x"
+    },
+    {
+        "sympy_exp": "22.4258330573243*x + 25.8936529090493*y",
+        "latex_expression": "22.4258330573243 x + 25.8936529090493 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 22.4258330573243*x + 25.8936529090493*y"
+    },
+    {
+        "sympy_exp": "34.1468772985107*x + 96.7124897170324*y",
+        "latex_expression": "34.1468772985107 x + 96.7124897170324 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 34.1468772985107*x + 96.7124897170324*y"
+    },
+    {
+        "sympy_exp": "11.5608793658934*x + 77.472688638637*y + 99.7748438673126*z",
+        "latex_expression": "11.5608793658934 x + 77.472688638637 y + 99.7748438673126 z",
+        "solution": "import numpy as np\ndef generated_function(z, y, x):\n    return 11.5608793658934*x + 77.472688638637*y + 99.7748438673126*z"
+    },
+    {
+        "sympy_exp": "42.98571985886*x + 75.8803547514243*y + 53.2371894238631*z",
+        "latex_expression": "42.98571985886 x + 75.8803547514243 y + 53.2371894238631 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 42.98571985886*x + 75.8803547514243*y + 53.2371894238631*z"
+    },
+    {
+        "sympy_exp": "51.6101893416722*y + 12.7963320707456*z",
+        "latex_expression": "51.6101893416722 y + 12.7963320707456 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 51.6101893416722*y + 12.7963320707456*z"
+    },
+    {
+        "sympy_exp": "12.0351726415693*x + 81.201093656792*y + 6.45963895265383*z",
+        "latex_expression": "12.0351726415693 x + 81.201093656792 y + 6.45963895265383 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 12.0351726415693*x + 81.201093656792*y + 6.45963895265383*z"
+    },
+    {
+        "sympy_exp": "60.1732919617111*x",
+        "latex_expression": "60.1732919617111 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 60.1732919617111*x"
+    },
+    {
+        "sympy_exp": "68.9236013124132*x + 95.5846655543825*y",
+        "latex_expression": "68.9236013124132 x + 95.5846655543825 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 68.9236013124132*x + 95.5846655543825*y"
+    },
+    {
+        "sympy_exp": "98.1422692392327*x + 29.8822629796561*y",
+        "latex_expression": "98.1422692392327 x + 29.8822629796561 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 98.1422692392327*x + 29.8822629796561*y"
+    },
+    {
+        "sympy_exp": "60.8949964259378*x + 73.4755558467871*y",
+        "latex_expression": "60.8949964259378 x + 73.4755558467871 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 60.8949964259378*x + 73.4755558467871*y"
+    },
+    {
+        "sympy_exp": "33.1391593825072*y",
+        "latex_expression": "33.1391593825072 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 33.1391593825072*y"
+    },
+    {
+        "sympy_exp": "75.0456722578347*y + 50.6136273726709*z",
+        "latex_expression": "75.0456722578347 y + 50.6136273726709 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 75.0456722578347*y + 50.6136273726709*z"
+    },
+    {
+        "sympy_exp": "97.6309033902681*z",
+        "latex_expression": "97.6309033902681 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 97.6309033902681*z"
+    },
+    {
+        "sympy_exp": "74.5772184578237*x",
+        "latex_expression": "74.5772184578237 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 74.5772184578237*x"
+    },
+    {
+        "sympy_exp": "44.5094895628671*x + 62.4321086939295*y",
+        "latex_expression": "44.5094895628671 x + 62.4321086939295 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 44.5094895628671*x + 62.4321086939295*y"
+    },
+    {
+        "sympy_exp": "86.5167027884071*x + 58.9054707376923*y + 30.5222906484899*z",
+        "latex_expression": "86.5167027884071 x + 58.9054707376923 y + 30.5222906484899 z",
+        "solution": "import numpy as np\ndef generated_function(x, z, y):\n    return 86.5167027884071*x + 58.9054707376923*y + 30.5222906484899*z"
+    },
+    {
+        "sympy_exp": "58.1923253491779*x + 52.5837366298265*y + 98.4391176514934*z",
+        "latex_expression": "58.1923253491779 x + 52.5837366298265 y + 98.4391176514934 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 58.1923253491779*x + 52.5837366298265*y + 98.4391176514934*z"
+    },
+    {
+        "sympy_exp": "45.0512290412436*y",
+        "latex_expression": "45.0512290412436 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 45.0512290412436*y"
+    },
+    {
+        "sympy_exp": "92.926271046181*x + 83.874900568182*y",
+        "latex_expression": "92.926271046181 x + 83.874900568182 y",
+        "solution": "import numpy as np\ndef generated_function(y, x):\n    return 92.926271046181*x + 83.874900568182*y"
+    },
+    {
+        "sympy_exp": "18.8299822982433*y + 41.2052909886337*z",
+        "latex_expression": "18.8299822982433 y + 41.2052909886337 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 18.8299822982433*y + 41.2052909886337*z"
+    },
+    {
+        "sympy_exp": "28.6081042789045*z",
+        "latex_expression": "28.6081042789045 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 28.6081042789045*z"
+    },
+    {
+        "sympy_exp": "68.9195026922629*x + 14.9904672655835*z",
+        "latex_expression": "68.9195026922629 x + 14.9904672655835 z",
+        "solution": "import numpy as np\ndef generated_function(x, z):\n    return 68.9195026922629*x + 14.9904672655835*z"
+    },
+    {
+        "sympy_exp": "71.9582280560599*x",
+        "latex_expression": "71.9582280560599 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 71.9582280560599*x"
+    },
+    {
+        "sympy_exp": "11.7239377994737*x",
+        "latex_expression": "11.7239377994737 x",
+        "solution": "import numpy as np\ndef generated_function(x):\n    return 11.7239377994737*x"
+    },
+    {
+        "sympy_exp": "25.8505410771533*x + 85.5945145662053*y + 65.9020280341497*z",
+        "latex_expression": "25.8505410771533 x + 85.5945145662053 y + 65.9020280341497 z",
+        "solution": "import numpy as np\ndef generated_function(y, z, x):\n    return 25.8505410771533*x + 85.5945145662053*y + 65.9020280341497*z"
+    },
+    {
+        "sympy_exp": "49.8840115234497*y + 4.49484318816251*z",
+        "latex_expression": "49.8840115234497 y + 4.49484318816251 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 49.8840115234497*y + 4.49484318816251*z"
+    },
+    {
+        "sympy_exp": "35.3247831186432*x + 61.7247648330102*y + 42.4888167957056*z",
+        "latex_expression": "35.3247831186432 x + 61.7247648330102 y + 42.4888167957056 z",
+        "solution": "import numpy as np\ndef generated_function(x, y, z):\n    return 35.3247831186432*x + 61.7247648330102*y + 42.4888167957056*z"
+    },
+    {
+        "sympy_exp": "26.9701409353521*x + 97.7122707929851*y",
+        "latex_expression": "26.9701409353521 x + 97.7122707929851 y",
+        "solution": "import numpy as np\ndef generated_function(x, y):\n    return 26.9701409353521*x + 97.7122707929851*y"
+    },
+    {
+        "sympy_exp": "46.6078488140223*y + 97.8578214908588*z",
+        "latex_expression": "46.6078488140223 y + 97.8578214908588 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 46.6078488140223*y + 97.8578214908588*z"
+    },
+    {
+        "sympy_exp": "32.1108048569581*y + 58.71747093863*z",
+        "latex_expression": "32.1108048569581 y + 58.71747093863 z",
+        "solution": "import numpy as np\ndef generated_function(y, z):\n    return 32.1108048569581*y + 58.71747093863*z"
+    },
+    {
+        "sympy_exp": "50.7466944702519*y + 7.39480275203721*z",
+        "latex_expression": "50.7466944702519 y + 7.39480275203721 z",
+        "solution": "import numpy as np\ndef generated_function(z, y):\n    return 50.7466944702519*y + 7.39480275203721*z"
+    },
+    {
+        "sympy_exp": "96.7389613221533*x + 50.3385938022158*y + 13.3137548701824*z",
+        "latex_expression": "96.7389613221533 x + 50.3385938022158 y + 13.3137548701824 z",
+        "solution": "import numpy as np\ndef generated_function(z, x, y):\n    return 96.7389613221533*x + 50.3385938022158*y + 13.3137548701824*z"
+    },
+    {
+        "sympy_exp": "69.7200353489848*y",
+        "latex_expression": "69.7200353489848 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 69.7200353489848*y"
+    },
+    {
+        "sympy_exp": "33.6741864164044*z",
+        "latex_expression": "33.6741864164044 z",
+        "solution": "import numpy as np\ndef generated_function(z):\n    return 33.6741864164044*z"
+    },
+    {
+        "sympy_exp": "27.6825497865872*y",
+        "latex_expression": "27.6825497865872 y",
+        "solution": "import numpy as np\ndef generated_function(y):\n    return 27.6825497865872*y"
+    }
+]
